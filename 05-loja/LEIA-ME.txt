@@ -1,0 +1,17 @@
+ETAPA 05, MONTAR A LOJA DE VERDADE
+(módulo 06 do curso, com a skill /montar-loja)
+
+Esta etapa só começa depois que a marca (03-marca/) e as imagens de produto
+(04-produtos/) estiverem prontas, o /montar-loja usa esse material pra
+montar a loja Shopify de verdade.
+
+O que entra aqui: liquid, copy final, políticas da loja e exports/backups
+gerados durante a montagem.
+
+Como fazer: rode a skill /montar-loja apontando pro plano de ação em
+../01-pesquisa/paginas/plano-de-acao.html e pro build.json em
+../01-pesquisa/dados/build.json. Ela monta a loja direto na sua conta
+Shopify, os arquivos que ela salvar localmente (backup do tema, exports)
+guarde aqui.
+
+Depois de pronto, vá para a etapa 06-redes/.

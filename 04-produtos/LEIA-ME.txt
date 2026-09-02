@@ -1,0 +1,15 @@
+ETAPA 04, IMAGENS DE CADA PRODUTO
+(módulo 06 do curso)
+
+Cada subpasta aqui dentro já tem o nome (handle) de um produto da sua loja
+, uma pra cada item da arquitetura de catálogo que você travou no brief.
+
+O que fazer:
+1. Abra ../01-pesquisa/paginas/identidade-visual.html, os prompts de
+   imagem já estão prontos, um por produto.
+2. Pra cada produto, copie o prompt, gere no ChatGPT ou Gemini, e salve o
+   resultado na subpasta com o handle correspondente.
+3. Siga a numeração do prompt (galeria, review orgânico, etc.), ela dita a
+   ordem em que as imagens entram na página de produto.
+
+Depois de pronto, vá para a etapa 05-loja/ (montar a loja de verdade).

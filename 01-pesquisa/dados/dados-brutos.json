@@ -1,0 +1,2545 @@
+{
+  "case": {
+    "code": "RX-DEARBRON-0901-PETWALK",
+    "central": "Pesquisa - clique aqui.html",
+    "nicho": "Acessórios de passeio personalizados para cães",
+    "emphasis": "peitoral no-pull com o nome do cão",
+    "marca": "Dear Bron",
+    "paisAnuncio": "UK",
+    "coleta": "27/08/2026",
+    "auditoria": "01/09/2026",
+    "entrega": "01/09/2026",
+    "decisao": "GO CONDICIONAL"
+  },
+  "benchmark": {
+    "cpm": [
+      8,
+      15
+    ],
+    "cpc": [
+      0.5,
+      1.15
+    ],
+    "cpa": 17
+  },
+  "demanda": {
+    "termoNichoAtivos": 47,
+    "harnessAmploUK": 1692,
+    "harnessAmploUS": 6106,
+    "termos": [
+      {
+        "termo": "personalized dog harness",
+        "ativos": 47,
+        "intencao": "comprar",
+        "serve": "herói (peitoral personalizado)",
+        "link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&q=personalized%20dog%20harness&search_type=keyword_unordered"
+      },
+      {
+        "termo": "no pull dog harness",
+        "ativos": 14658,
+        "intencao": "comprar (contagem contaminada pelo matching largo)",
+        "serve": "termo amplo, usar como ângulo de anúncio",
+        "link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&q=no%20pull%20dog%20harness&search_type=keyword_unordered"
+      },
+      {
+        "termo": "dog harness",
+        "ativos": 1692,
+        "intencao": "categoria",
+        "serve": "tamanho bruto do mercado UK",
+        "link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&q=dog%20harness&search_type=keyword_unordered"
+      },
+      {
+        "termo": "personalised dog collar",
+        "ativos": null,
+        "intencao": "comprar",
+        "serve": "cross-sell (coleira combinando)",
+        "link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&q=personalised%20dog%20collar&search_type=keyword_unordered"
+      },
+      {
+        "termo": "dog walking set",
+        "ativos": null,
+        "intencao": "comprar (kit)",
+        "serve": "bundle (Complete Walking Set)",
+        "link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&q=dog%20walking%20set&search_type=keyword_unordered"
+      },
+      {
+        "termo": "dog pulls on lead",
+        "ativos": null,
+        "intencao": "problema/dor",
+        "serve": "ângulo de advertorial (situação, não produto)",
+        "link": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&q=dog%20pulls%20on%20lead&search_type=keyword_unordered"
+      }
+    ],
+    "motivos": [
+      {
+        "t": "Por que vai",
+        "c": "g",
+        "d": "O cão puxa e o dono passa vergonha; o peitoral atual esfrega ou o cão escapa; querem algo bonito e 'do cão deles'; presente pra filhote novo."
+      },
+      {
+        "t": "Por que frustra",
+        "c": "a",
+        "d": "Tamanho errado (a objeção nº 1); heat-press do nome que descola; prazo longo e 'vem da China'; costura que desfia numa temporada."
+      },
+      {
+        "t": "Retenção",
+        "c": "b",
+        "d": "LTV bom: dono compra guia/coleira de reposição e presente em 6 a 12 meses. Recompra por e-mail é real nesse nicho."
+      },
+      {
+        "t": "Cruzamento",
+        "c": "b",
+        "d": "'Peitoral no-pull' cruza com 'ansiedade / puxão / reatividade'. Nunca prometer curar ansiedade: é serviço de adestramento, não produto, e atrai claim proibida (ASA)."
+      }
+    ],
+    "voz": [
+      {
+        "q": "My dog pulls so hard on the lead my shoulder aches after every walk.",
+        "fonte": "Reddit r/dogs, thread sobre no-pull harnesses"
+      },
+      {
+        "q": "Ordered a personalised one and the name peeled off after two washes.",
+        "fonte": "review de concorrente, PDP"
+      },
+      {
+        "q": "Between two sizes, which do I go for? The chart is confusing.",
+        "fonte": "pergunta recorrente em PDP de concorrente"
+      },
+      {
+        "q": "Had 'Biscuit' put on ours, looks really smart and it actually stopped the pulling.",
+        "fonte": "review positiva, DoggyKings"
+      }
+    ],
+    "decisao": {
+      "fonte": "Conector Meta (contagem por termo × país, 01/09/2026) + Voz do Mercado (Reddit, PDPs de concorrente).",
+      "obs": "47 anúncios ativos no termo específico 'personalized dog harness' no UK; 3 de 6 concorrentes usam 'personalised' no título; a dor 'meu cão puxa' aparece literal nos fóruns.",
+      "interp": "Demanda paga real e específica pro sub-nicho, não só pra categoria genérica. É lago pequeno, limpo e com operador provando.",
+      "dec": "Demanda ABRE. O risco não está aqui, está na execução da escada de oferta e na confiabilidade do fornecedor de personalização.",
+      "next": "Levar o herói personalizado adiante; escrever o criativo pela dor ('your dog pulls on every walk')."
+    }
+  },
+  "mercados": {
+    "paises": [
+      {
+        "pais": "Reino Unido",
+        "amplo": 1692,
+        "angulo": 47,
+        "razao": "demanda média, concorrência menor, CPM mais barato",
+        "leitura": "1º mercado de anúncio, a caixa de iniciante compra aprendizado aqui"
+      },
+      {
+        "pais": "Estados Unidos",
+        "amplo": 6106,
+        "angulo": 141,
+        "razao": "~3,5x a demanda, mas ~3x a concorrência DTC e CPM 2 a 3x maior",
+        "leitura": "fase 2, depois de 1 criativo lucrativo"
+      },
+      {
+        "pais": "Canadá",
+        "amplo": null,
+        "angulo": null,
+        "razao": "mercado menor, mesmo idioma",
+        "leitura": "fase 2, junto com EUA"
+      },
+      {
+        "pais": "Austrália",
+        "amplo": null,
+        "angulo": null,
+        "razao": "mercado menor, frete longo do fornecedor",
+        "leitura": "fase 3"
+      },
+      {
+        "pais": "Irlanda",
+        "amplo": null,
+        "angulo": null,
+        "razao": "pequeno, en, EUR",
+        "leitura": "fase 2, extensão natural do criativo UK"
+      },
+      {
+        "pais": "Alemanha",
+        "amplo": null,
+        "angulo": null,
+        "razao": "grande, mas exige tradução e o criativo em de",
+        "leitura": "fora do escopo do teste"
+      }
+    ],
+    "sequencia": [
+      {
+        "t": "Dia 1",
+        "d": "loja global em USD no ar; Shopify Markets converte a exibição por país (UK vê £)"
+      },
+      {
+        "t": "Mês 1",
+        "d": "todo o orçamento de anúncio no Reino Unido, criativo en-GB"
+      },
+      {
+        "t": "Fase 2",
+        "d": "abrir EUA + Irlanda com o mesmo criativo vencedor, sem retrabalho de loja"
+      },
+      {
+        "t": "Nunca",
+        "d": "abrir US e UK juntos no dia 1 com caixa de iniciante: dilui o orçamento e atrasa a leitura de sinal"
+      }
+    ],
+    "decisao": {
+      "fonte": "Conector Meta (matriz de países, 01/09/2026) + benchmark de CPM por categoria.",
+      "obs": "UK tem 47 anúncios no sub-nicho e CPM ~2 a 3x menor que os EUA; EUA tem ~141 mas concorrência DTC pesada.",
+      "interp": "Pra caixa de iniciante, o UK compra aprendizado mais barato; o criativo vencedor porta pros EUA sem retrabalho.",
+      "dec": "Loja global em USD, 1º mercado de anúncio Reino Unido, EUA na fase 2.",
+      "next": "Configurar Shopify Markets e mirar o público UK no Meta."
+    }
+  },
+  "lojas": [
+    {
+      "slug": "doggykings",
+      "nome": "DoggyKings",
+      "dominio": "doggykings.com",
+      "modelo": "DROPSHIP DE MARCA",
+      "modeloCurto": "dropship de marca",
+      "nivel": "iniciante",
+      "ativos": 136,
+      "ativosV4": 88,
+      "historico": 993,
+      "sobrev": 14,
+      "gads": null,
+      "auditoriaNota": "ok, divergência +55%",
+      "divergencia": "+55% ativos vs V4 (rajada de oferta)",
+      "ticketHero": 19.99,
+      "catalogoN": 7,
+      "precoMediana": 21.99,
+      "idade": "ativa desde ~2024 (~2 anos, Wayback)",
+      "plataforma": "Shopify",
+      "instagram": "Instagram @doggykings",
+      "hero": {
+        "titulo": "Personalised No-Pull Dog Harness",
+        "preco": 19.99,
+        "de": 39.99,
+        "nota": "peitoral com o nome do cão bordado, âncora agressiva, é o modelo EXATO da Dear Bron"
+      },
+      "resumo": "Prova o modelo exato: nome bordado + âncora de 50% + '1 FREE Lead' + order bump barato. Catálogo curto de 7 produtos. É a aula de oferta pra iniciante.",
+      "oQueCopiar": "Copie a oferta empilhada (âncora + brinde + bump), o campo de nome com preview e o catálogo enxuto. Não copie a marca, o nome nem o criativo.",
+      "oQueCopiar2": "escada de oferta explícita (âncora 50%, '1 FREE Lead', bump £1.99), personalização como padrão, home-como-catálogo com brindes visíveis no card",
+      "ritmo": [
+        {
+          "k": "criativos únicos observados",
+          "v": "~30 na amostra",
+          "l": "estático + vídeo simples de UGC"
+        },
+        {
+          "k": "duplicação",
+          "v": "alta",
+          "l": "mesmo conceito de oferta em muitas variações"
+        },
+        {
+          "k": "cadência",
+          "v": "rajada por lançamento de oferta",
+          "l": "liga/desliga campanha, não fluxo contínuo"
+        },
+        {
+          "k": "sobrevivência",
+          "v": "14%",
+          "l": "assinatura de operação de oferta, não de marca estável"
+        },
+        {
+          "k": "por dia",
+          "v": "rajada (janela curta, não extrapolável)",
+          "l": "o conector devolve amostra por recência; janela curta não é extrapolável"
+        },
+        {
+          "k": "longevidade máxima",
+          "v": "não obtido",
+          "l": "o conector não devolve data de início do anúncio; conferir na Biblioteca pelo link"
+        }
+      ],
+      "criativoCampeao": "'50% OFF + 1 FREE Lead Today' (EUR): âncora agressiva + brinde no título. O gancho é o desconto, não a história. Longevidade em dias: não obtido (o conector não expõe a data de início; ver Biblioteca).",
+      "trafego": null,
+      "fatCentro": 32000,
+      "fatPiso": 15000,
+      "fatTeto": 50000,
+      "fatFaixa": "$15.000 a $50.000",
+      "fatMetodo": "136 anúncios ativos auditados × AOV ~$25 × janela de rajada",
+      "midiaMes": 6000,
+      "anatomia": [
+        {
+          "k": "Big idea",
+          "v": "o mesmo peitoral que todo mundo tem, mas com o nome DELE, quase de graça"
+        },
+        {
+          "k": "Mecanismo",
+          "v": "âncora de preço + brinde no pedido + personalização inclusa"
+        },
+        {
+          "k": "Hook",
+          "v": "'50% OFF + 1 FREE Lead Today' / 'Rocky's harness arrived'"
+        },
+        {
+          "k": "Presell",
+          "v": "pouco; vai direto pra oferta"
+        },
+        {
+          "k": "Objeção",
+          "v": "'vai servir?' resolvida com tabela de medidas + troca"
+        }
+      ],
+      "momentum": "escalando",
+      "momentumNota": "Rajadas de oferta frequentes, +55% de ativos vs a leitura do V4, catálogo curto e estável. Opera por lançamento, não por fluxo.",
+      "stack": [
+        {
+          "k": "Plataforma",
+          "v": "Shopify"
+        },
+        {
+          "k": "Apps",
+          "v": "Judge.me, order bump app, Klaviyo (assinatura observada)"
+        },
+        {
+          "k": "Pixel Meta",
+          "na": "assinatura não confirmada pelo coletor sem navegador"
+        },
+        {
+          "k": "Catálogo",
+          "v": "7 produtos, mediana $21.99"
+        },
+        {
+          "k": "Frete",
+          "v": "grátis acima de um piso; padrão do nicho"
+        },
+        {
+          "k": "Garantia",
+          "v": "60-day money-back (observado)"
+        },
+        {
+          "k": "Prazo e BNPL",
+          "na": "não declarado na PDP"
+        },
+        {
+          "k": "Reviews",
+          "v": "widget Judge.me na PDP, contagem exata não lida por XHR"
+        },
+        {
+          "k": "Redes",
+          "v": "Instagram @doggykings"
+        }
+      ],
+      "naoObtido": [
+        {
+          "d": "Gasto comercial exato",
+          "m": "Meta só divulga pra político/UE",
+          "t": "Biblioteca pública + proxy de benchmark"
+        },
+        {
+          "d": "Contagem exata de reviews",
+          "m": "Judge.me público bloqueado",
+          "t": "leitura da PDP quando visível"
+        },
+        {
+          "d": "Tráfego mensal",
+          "m": "SimilarWeb não rodado nesta rodada",
+          "t": "proxy por anúncios ativos × AOV"
+        }
+      ],
+      "defensabilidade": "ARBITRAGEM",
+      "scorecard": {
+        "rows": [
+          {
+            "e": "Produto",
+            "n": "2/2",
+            "b": "herói único personalizado, catálogo enxuto"
+          },
+          {
+            "e": "Operação",
+            "n": "2/2",
+            "b": "idade ~2 anos, Shopify, apps de oferta"
+          },
+          {
+            "e": "Mídia",
+            "n": "2/2",
+            "b": "136 anúncios ativos, histórico 993"
+          },
+          {
+            "e": "Margem",
+            "n": "1/2",
+            "b": "ticket $19.99 vs CPA setorial $17, só fecha com escada"
+          },
+          {
+            "e": "Execução",
+            "n": "2/2",
+            "b": "100% replicável por iniciante"
+          },
+          {
+            "e": "Defensabilidade",
+            "n": "1/2",
+            "b": "arbitragem: 90% tráfego pago, sem barreira de marca"
+          }
+        ],
+        "soma": "10/12"
+      },
+      "evidencia": {
+        "fonte": "Conector Meta (136/993, 01/09/2026), Shopify products.json, Instagram público.",
+        "obs": "136 anúncios ativos, 7 produtos, herói personalizado a $19.99 com âncora $39.99, order bump $1.99.",
+        "interp": "Estrutura simples e replicável, o molde exato pra Dear Bron: oferta empilhada + personalização.",
+        "dec": "MODELAR, DROPSHIP DE MARCA, nível iniciante.",
+        "next": "Copiar a escada de oferta e o campo de nome com preview desta loja."
+      },
+      "proximaAcao": "Copiar a escada de oferta (âncora + brinde + bump) e o campo de nome com preview",
+      "auditoriaImagens": "",
+      "veredito": "MODELAR"
+    },
+    {
+      "slug": "ruffrover",
+      "nome": "RuffRover",
+      "dominio": "ruffrover.com",
+      "modelo": "DROPSHIP DE MARCA",
+      "modeloCurto": "dropship de marca",
+      "nivel": "avançado",
+      "ativos": 624,
+      "ativosV4": 606,
+      "historico": 2010,
+      "sobrev": 31,
+      "gads": null,
+      "auditoriaNota": "ok, divergência +3%",
+      "divergencia": "+3% ativos, +4% histórico vs V4",
+      "ticketHero": 149.95,
+      "catalogoN": 24,
+      "precoMediana": 34.99,
+      "idade": "ativa desde ~2024 (~2 anos)",
+      "plataforma": "Shopify",
+      "instagram": "Instagram, ~198K seguidores",
+      "hero": {
+        "titulo": "Hard Bottom Dog Car Seat Protector",
+        "preco": 149.95,
+        "de": 340.99,
+        "nota": "capa de banco rígida, produto volumoso: frete e devolução caros. A aula é a OFERTA e o CRIATIVO, não o SKU."
+      },
+      "resumo": "A melhor aula de OFERTA e CRIATIVO do nicho: carta emocional a um cão idoso + âncora de 56% + brinde. Mas o produto é cluster de carro, não entrada de iniciante.",
+      "oQueCopiar": "Copie o ângulo emocional (vínculo dono-cão), a ancoragem de 56% e o ritmo de teste de criativo. Não copie o SKU volumoso.",
+      "oQueCopiar2": "1 CTA claro acima da dobra, prova social antes do preço, bloco 'Us vs Them', volume industrial de criativo sobre 1 conceito",
+      "ritmo": [
+        {
+          "k": "criativos únicos",
+          "v": "dezenas por dia",
+          "l": "teste de audiência/placement em volume"
+        },
+        {
+          "k": "duplicação",
+          "v": "muito alta",
+          "l": "mesmo conceito, muitos objetos de anúncio"
+        },
+        {
+          "k": "cadência",
+          "v": "industrial",
+          "l": "operação com equipe de criativo dedicada"
+        },
+        {
+          "k": "longevidade máx.",
+          "v": "meses no criativo âncora",
+          "l": "'One Last Road Trip, 56% Off' é o vencedor mais provável"
+        },
+        {
+          "k": "por dia",
+          "v": "rajada (volume industrial, não extrapolável)",
+          "l": "o conector devolve amostra por recência; janela curta não é extrapolável"
+        },
+        {
+          "k": "longevidade máxima",
+          "v": "não obtido",
+          "l": "o conector não devolve data de início do anúncio; conferir na Biblioteca pelo link"
+        }
+      ],
+      "criativoCampeao": "'One Last Road Trip, 56% Off' (CAD): carta emocional a um cão idoso, 'última viagem'. Vínculo dono-cão + ancoragem agressiva. Longevidade em dias: não obtido (o conector não expõe a data de início; ver Biblioteca).",
+      "trafego": null,
+      "fatCentro": 200000,
+      "fatPiso": 120000,
+      "fatTeto": 400000,
+      "fatFaixa": "$120.000 a $400.000",
+      "fatMetodo": "624 anúncios ativos × AOV ~$150 × janela; volume industrial de criativo",
+      "midiaMes": 45000,
+      "anatomia": [
+        {
+          "k": "Big idea",
+          "v": "seu cão te deu anos de companhia; retribua com uma última viagem confortável"
+        },
+        {
+          "k": "Mecanismo",
+          "v": "emoção (culpa/gratidão) + âncora de 56% + brinde 'FREE Luxe Dog Bed'"
+        },
+        {
+          "k": "Hook",
+          "v": "'One Last Road Trip' / 'Return The Favor'"
+        },
+        {
+          "k": "Presell",
+          "v": "carta narrativa antes de mostrar o produto"
+        },
+        {
+          "k": "Objeção",
+          "v": "'é resistente?' resolvida com 'hard bottom / holds 280 lbs / ISOFIX'"
+        }
+      ],
+      "momentum": "escalando",
+      "momentumNota": "624 ativos, 2.010 no histórico, 31% de sobrevivência, ~198K no Instagram. Operação grande e madura.",
+      "stack": [
+        {
+          "k": "Plataforma",
+          "v": "Shopify"
+        },
+        {
+          "k": "Apps",
+          "v": "Bold, UpCart, Judge.me, ReCharge (assinatura observada)"
+        },
+        {
+          "k": "Pixel Meta",
+          "v": "detectado (gtag + fbevents)"
+        },
+        {
+          "k": "Catálogo",
+          "v": "24 produtos, mediana $34.99, herói $149.95"
+        },
+        {
+          "k": "Frete",
+          "v": "'2 a 5 business days', order bump 'Shipping Protection $4.99'"
+        },
+        {
+          "k": "Garantia",
+          "v": "30-day"
+        },
+        {
+          "k": "Prazo e BNPL",
+          "na": "BNPL não detectado"
+        },
+        {
+          "k": "Reviews",
+          "v": "'3.534 reviews' na PDP (Judge.me), '50.000+ Happy Pets & Parents'"
+        },
+        {
+          "k": "Redes",
+          "v": "Instagram ~198K"
+        }
+      ],
+      "naoObtido": [
+        {
+          "d": "Gasto comercial",
+          "m": "não público fora da UE",
+          "t": "Biblioteca pública + proxy"
+        },
+        {
+          "d": "Volume de pedidos real",
+          "m": "'50.000+ happy pets' é número de marketing, não derivável",
+          "t": "não derivado (regra: só contagem verificada)"
+        }
+      ],
+      "defensabilidade": "ARBITRAGEM",
+      "scorecard": {
+        "rows": [
+          {
+            "e": "Produto",
+            "n": "1/2",
+            "b": "herói volumoso, frete e devolução caros"
+          },
+          {
+            "e": "Operação",
+            "n": "2/2",
+            "b": "madura, equipe de criativo, apps de conversão"
+          },
+          {
+            "e": "Mídia",
+            "n": "2/2",
+            "b": "624 ativos, volume industrial"
+          },
+          {
+            "e": "Margem",
+            "n": "2/2",
+            "b": "AOV $150 aguenta CPA alto"
+          },
+          {
+            "e": "Execução",
+            "n": "0/2",
+            "b": "exige equipe de criativo e caixa alta, não é iniciante"
+          },
+          {
+            "e": "Defensabilidade",
+            "n": "1/2",
+            "b": "arbitragem com marca leve; recompra baixa"
+          }
+        ],
+        "soma": "8/12"
+      },
+      "evidencia": {
+        "fonte": "Conector Meta (624/2010, 01/09/2026), Shopify, Instagram.",
+        "obs": "624 ativos, herói $149.95 com âncora $340.99, criativo emocional líder há meses.",
+        "interp": "Aula de oferta e criativo; produto e operação fora do alcance de um iniciante.",
+        "dec": "MODELAR (só oferta/criativo), DROPSHIP DE MARCA, nível avançado.",
+        "next": "Modelar o ângulo emocional e a ancoragem; ignorar o SKU."
+      },
+      "proximaAcao": "Modelar o ângulo emocional e a ancoragem de 56%, não o produto volumoso",
+      "auditoriaImagens": "",
+      "veredito": "MODELAR"
+    },
+    {
+      "slug": "lutherbennett",
+      "nome": "Luther Bennett",
+      "dominio": "lutherbennett.com",
+      "modelo": "DROPSHIP DE MARCA",
+      "modeloCurto": "dropship de marca premium",
+      "nivel": "avançado",
+      "ativos": 136,
+      "ativosV4": 101,
+      "historico": 1025,
+      "sobrev": 13,
+      "gads": null,
+      "auditoriaNota": "corrigido, histórico era 101",
+      "divergencia": "V4 tinha histórico 101 = ativos (chamada ALL falhou); real 1.025",
+      "ticketHero": 190,
+      "catalogoN": 17,
+      "precoMediana": 89,
+      "idade": "ativa desde ~2024 (~1,5 ano)",
+      "plataforma": "Shopify",
+      "instagram": "Instagram, tom editorial",
+      "hero": {
+        "titulo": "Dog Car Seat / Booster (1 produto, 1 promessa)",
+        "preco": 190,
+        "de": 240,
+        "nota": "1 produto, 1 promessa, marca premium com fotografia própria consistente. Ticket $190."
+      },
+      "resumo": "A aula de MARCA e CONFIANÇA: 1 produto, fotografia própria, selo Trustpilot 'Excellent' + 1.571 reviews, FAQ real. Ticket $190. Sobrevivência 13% (opera por lançamento).",
+      "oQueCopiar": "Copie a hierarquia visual calma, a FAQ ancorada em objeção real e o selo de confiança. Não copie o ticket nem o SKU de carro.",
+      "oQueCopiar2": "fotografia própria consistente, FAQ que responde a objeção de verdade, selo Trustpilot acima do CTA, 1 produto 1 promessa",
+      "ritmo": [
+        {
+          "k": "criativos únicos",
+          "v": "moderado",
+          "l": "vídeo lifestyle premium, produção pesada"
+        },
+        {
+          "k": "duplicação",
+          "v": "média",
+          "l": "menos variações, mais capricho por peça"
+        },
+        {
+          "k": "cadência",
+          "v": "por lançamento",
+          "l": "13% de sobrevivência: liga/desliga"
+        },
+        {
+          "k": "sofisticação",
+          "v": "nível 3",
+          "l": "produção cara, difícil de competir sem orçamento"
+        },
+        {
+          "k": "por dia",
+          "v": "rajada por lançamento",
+          "l": "o conector devolve amostra por recência; janela curta não é extrapolável"
+        },
+        {
+          "k": "longevidade máxima",
+          "v": "não obtido",
+          "l": "o conector não devolve data de início do anúncio; conferir na Biblioteca pelo link"
+        }
+      ],
+      "criativoCampeao": "'Vet Approved 🏅' (GBP): selo de autoridade no título. Presell mais longo, produção lifestyle. Longevidade em dias: não obtido (o conector não expõe a data de início; ver Biblioteca).",
+      "trafego": null,
+      "fatCentro": 90000,
+      "fatPiso": 60000,
+      "fatTeto": 180000,
+      "fatFaixa": "$60.000 a $180.000",
+      "fatMetodo": "136 anúncios ativos × AOV ~$190 × janela; 1.571 reviews Trustpilot",
+      "midiaMes": 18000,
+      "anatomia": [
+        {
+          "k": "Big idea",
+          "v": "o assento premium que veterinários aprovam, feito pra durar"
+        },
+        {
+          "k": "Mecanismo",
+          "v": "autoridade ('vet approved') + prova social (Trustpilot) + 1 promessa clara"
+        },
+        {
+          "k": "Hook",
+          "v": "'Vet Approved' + demonstração lifestyle"
+        },
+        {
+          "k": "Presell",
+          "v": "longo, editorial"
+        },
+        {
+          "k": "Objeção",
+          "v": "FAQ real respondendo encaixe, segurança, prazo"
+        }
+      ],
+      "momentum": "estável",
+      "momentumNota": "136 ativos, 1.025 no histórico (corrigido na v5), 13% de sobrevivência. Marca jovem que opera por lançamento.",
+      "stack": [
+        {
+          "k": "Plataforma",
+          "v": "Shopify"
+        },
+        {
+          "k": "Apps",
+          "v": "Judge.me / Trustpilot, Klaviyo"
+        },
+        {
+          "k": "Pixel Meta",
+          "v": "detectado"
+        },
+        {
+          "k": "Catálogo",
+          "v": "17 produtos, herói $190"
+        },
+        {
+          "k": "Frete",
+          "v": "'Express UK Delivery'"
+        },
+        {
+          "k": "Garantia",
+          "v": "45-day"
+        },
+        {
+          "k": "Prazo e BNPL",
+          "v": "Klarna/Clearpay observado"
+        },
+        {
+          "k": "Reviews",
+          "v": "Trustpilot 'Excellent', 1.571 reviews"
+        },
+        {
+          "k": "Redes",
+          "v": "Instagram editorial"
+        }
+      ],
+      "naoObtido": [
+        {
+          "d": "Gasto comercial",
+          "m": "não público fora da UE",
+          "t": "Biblioteca + proxy"
+        },
+        {
+          "d": "Tráfego mensal",
+          "m": "SimilarWeb não rodado",
+          "t": "proxy por anúncios × AOV"
+        }
+      ],
+      "defensabilidade": "CONSTRUÍVEL",
+      "scorecard": {
+        "rows": [
+          {
+            "e": "Produto",
+            "n": "1/2",
+            "b": "herói de carro, volumoso"
+          },
+          {
+            "e": "Operação",
+            "n": "2/2",
+            "b": "marca premium, fotografia própria"
+          },
+          {
+            "e": "Mídia",
+            "n": "1/2",
+            "b": "136 ativos, sofisticação nível 3 (cara)"
+          },
+          {
+            "e": "Margem",
+            "n": "2/2",
+            "b": "ticket $190"
+          },
+          {
+            "e": "Execução",
+            "n": "0/2",
+            "b": "produção de criativo cara, não é iniciante"
+          },
+          {
+            "e": "Defensabilidade",
+            "n": "2/2",
+            "b": "marca com prova social real e recompra"
+          }
+        ],
+        "soma": "8/12"
+      },
+      "evidencia": {
+        "fonte": "Conector Meta (136/1025, 01/09/2026, ALL corrigido), Trustpilot, Shopify.",
+        "obs": "136 ativos, 1 produto a $190, 1.571 reviews Trustpilot, FAQ real.",
+        "interp": "Aula de marca e confiança; ticket e produção fora do alcance de iniciante.",
+        "dec": "MODELAR (marca/confiança), DROPSHIP DE MARCA, nível avançado.",
+        "next": "Copiar a FAQ de objeção e o selo de confiança acima do CTA."
+      },
+      "proximaAcao": "Copiar a FAQ ancorada em objeção e o selo de confiança acima do CTA",
+      "auditoriaImagens": "",
+      "veredito": "MODELAR"
+    },
+    {
+      "slug": "stridepaws",
+      "nome": "Stride Paws",
+      "dominio": "stridepaws.com",
+      "modelo": "DROPSHIP PURO",
+      "modeloCurto": "dropship puro",
+      "nivel": "iniciante",
+      "ativos": 24,
+      "ativosV4": 26,
+      "historico": 26,
+      "sobrev": 92,
+      "gads": null,
+      "auditoriaNota": "ok, divergência -8%",
+      "divergencia": "-2 ativos vs V4 (dentro do ruído)",
+      "ticketHero": 23.99,
+      "catalogoN": 55,
+      "precoMediana": 19.99,
+      "idade": "ativa desde ~2025 (~1 ano)",
+      "plataforma": "Shopify",
+      "instagram": "Instagram pequeno",
+      "hero": {
+        "titulo": "Deshedding Glove / Grooming Brush (BOGO)",
+        "preco": 23.99,
+        "de": 47.99,
+        "nota": "luva de remoção de pelo com BOGO. Categoria de grooming barata, criativo de demo visual fácil."
+      },
+      "resumo": "Operação pequena e contínua (92% de sobrevivência, 24 ativos): grooming de baixo ticket com BOGO. Criativo de demonstração fácil, mas margem apertada e sem diferenciação.",
+      "oQueCopiar": "Copie o gancho BOGO e o criativo de demonstração visual em 15 segundos. Não copie o catálogo disperso de 55 SKUs.",
+      "oQueCopiar2": "BOGO como âncora, demo visual do produto resolvendo a dor, operação pequena e contínua (não rajada)",
+      "ritmo": [
+        {
+          "k": "criativos únicos",
+          "v": "poucos",
+          "l": "estático + vídeo de demo simples"
+        },
+        {
+          "k": "duplicação",
+          "v": "baixa",
+          "l": "24 ativos, todos no ar"
+        },
+        {
+          "k": "cadência",
+          "v": "contínua",
+          "l": "92% de sobrevivência: operação pequena e estável"
+        },
+        {
+          "k": "sofisticação",
+          "v": "nível 1",
+          "l": "UGC cru, barato de produzir"
+        },
+        {
+          "k": "por dia",
+          "v": "~0,3 (operação contínua)",
+          "l": "o conector devolve amostra por recência; janela curta não é extrapolável"
+        },
+        {
+          "k": "longevidade máxima",
+          "v": "não obtido",
+          "l": "o conector não devolve data de início do anúncio; conferir na Biblioteca pelo link"
+        }
+      ],
+      "criativoCampeao": "'🚨 Best Grooming Deal You'll Find 🚨' (USD): BOGO no título, demo da luva tirando pelo do cão. Longevidade em dias: não obtido (o conector não expõe a data de início; ver Biblioteca).",
+      "trafego": null,
+      "fatCentro": 12000,
+      "fatPiso": 5000,
+      "fatTeto": 20000,
+      "fatFaixa": "$5.000 a $20.000",
+      "fatMetodo": "24 anúncios ativos × AOV ~$24 × janela; operação pequena e contínua",
+      "midiaMes": 2500,
+      "anatomia": [
+        {
+          "k": "Big idea",
+          "v": "tire o pelo solto do seu cão em segundos, e leve 2 pelo preço de 1"
+        },
+        {
+          "k": "Mecanismo",
+          "v": "demo visual + BOGO"
+        },
+        {
+          "k": "Hook",
+          "v": "'Best Grooming Deal You'll Find'"
+        },
+        {
+          "k": "Presell",
+          "v": "nenhum, vai direto pra demo"
+        },
+        {
+          "k": "Objeção",
+          "v": "'funciona mesmo?' resolvida com o vídeo"
+        }
+      ],
+      "momentum": "estável",
+      "momentumNota": "24 ativos, 26 no histórico, 92% de sobrevivência. Operação de 1 pessoa, pequena e contínua, sem sinal de escala nem de queda.",
+      "stack": [
+        {
+          "k": "Plataforma",
+          "v": "Shopify"
+        },
+        {
+          "k": "Apps",
+          "v": "app de BOGO, Klaviyo"
+        },
+        {
+          "k": "Pixel Meta",
+          "na": "não confirmado"
+        },
+        {
+          "k": "Catálogo",
+          "v": "55 produtos (disperso), mediana $19.99"
+        },
+        {
+          "k": "Frete",
+          "v": "padrão do nicho, não declarado com clareza"
+        },
+        {
+          "k": "Garantia",
+          "na": "não declarada na PDP"
+        },
+        {
+          "k": "Prazo e BNPL",
+          "na": "não declarado"
+        },
+        {
+          "k": "Reviews",
+          "v": "widget na PDP, contagem baixa"
+        },
+        {
+          "k": "Redes",
+          "v": "Instagram pequeno"
+        }
+      ],
+      "naoObtido": [
+        {
+          "d": "Gasto comercial",
+          "m": "não público fora da UE",
+          "t": "Biblioteca + proxy"
+        },
+        {
+          "d": "Garantia e prazo",
+          "m": "loja não declara na PDP",
+          "t": "inspeção de PDP e footer"
+        },
+        {
+          "d": "Tráfego mensal",
+          "m": "SimilarWeb não rodado",
+          "t": "proxy por anúncios × AOV"
+        }
+      ],
+      "defensabilidade": "ARBITRAGEM",
+      "scorecard": {
+        "rows": [
+          {
+            "e": "Produto",
+            "n": "1/2",
+            "b": "grooming genérico, sem diferenciação"
+          },
+          {
+            "e": "Operação",
+            "n": "1/2",
+            "b": "catálogo disperso de 55 SKUs"
+          },
+          {
+            "e": "Mídia",
+            "n": "1/2",
+            "b": "24 ativos, operação pequena"
+          },
+          {
+            "e": "Margem",
+            "n": "1/2",
+            "b": "ticket $23.99 com BOGO aperta a margem"
+          },
+          {
+            "e": "Execução",
+            "n": "2/2",
+            "b": "criativo de demo é fácil de replicar"
+          },
+          {
+            "e": "Defensabilidade",
+            "n": "0/2",
+            "b": "arbitragem pura, produto commodity"
+          }
+        ],
+        "soma": "6/12"
+      },
+      "evidencia": {
+        "fonte": "Conector Meta (24/26, 01/09/2026), Shopify products.json.",
+        "obs": "24 ativos, 92% de sobrevivência, herói de grooming com BOGO a $23.99.",
+        "interp": "Operação pequena e replicável; ensina o gancho BOGO e o criativo de demo, não o catálogo.",
+        "dec": "MODELAR (gancho BOGO), DROPSHIP PURO, nível iniciante.",
+        "next": "Guardar o BOGO como opção de order bump; não é o herói."
+      },
+      "proximaAcao": "Guardar o gancho BOGO como opção de bump; o herói é o peitoral personalizado",
+      "auditoriaImagens": "",
+      "veredito": "MODELAR"
+    },
+    {
+      "slug": "ruffandwild",
+      "nome": "Ruff & Wild",
+      "dominio": "ruffandwild.com",
+      "modelo": "DROPSHIP PURO",
+      "modeloCurto": "dropship, categoria em transição",
+      "nivel": "médio",
+      "ativos": 19,
+      "ativosV4": 14,
+      "historico": 494,
+      "sobrev": 4,
+      "gads": null,
+      "auditoriaNota": "ok, mas categoria mudou",
+      "divergencia": "+5 ativos vs V4; criativo topo agora é suplemento, não grooming",
+      "ticketHero": 21.99,
+      "catalogoN": 12,
+      "precoMediana": 24.99,
+      "idade": "ativa desde ~2024 (~1,5 ano)",
+      "plataforma": "Shopify",
+      "instagram": "Instagram pequeno",
+      "hero": {
+        "titulo": "'1st Month Supply' (suplemento em assinatura)",
+        "preco": 21.99,
+        "de": 43.99,
+        "nota": "ATENÇÃO: o criativo no topo virou 'Get 50% Off 1st Month Supply', assinatura de suplemento. No V4 era grooming/deshedding. Pode ter pivotado de categoria."
+      },
+      "resumo": "Cuidado: a v5 pegou uma possível troca de categoria. O criativo campeão agora é 'Get 50% Off 1st Month Supply' (assinatura de suplemento), não a demo de grooming do V4. Sobrevivência 4% (liga/desliga extremo).",
+      "oQueCopiar": "Serve de referência de estrutura de demonstração problema-solução do histórico (488 anúncios), não da operação atual. Reconferir o catálogo antes de usar.",
+      "oQueCopiar2": "demonstração problema-solução em vídeo curto (do histórico); a assinatura de suplemento não é o modelo da Dear Bron",
+      "ritmo": [
+        {
+          "k": "criativos únicos",
+          "v": "poucos ativos, 494 no histórico",
+          "l": "liga/desliga agressivo"
+        },
+        {
+          "k": "duplicação",
+          "v": "não medível com 19 ativos",
+          "l": "amostra pequena"
+        },
+        {
+          "k": "cadência",
+          "v": "rajada por lançamento",
+          "l": "4% de sobrevivência: extremo"
+        },
+        {
+          "k": "sofisticação",
+          "v": "nível 1 a 2",
+          "l": "UGC de demonstração"
+        },
+        {
+          "k": "por dia",
+          "v": "rajada (4% de sobrevivência)",
+          "l": "o conector devolve amostra por recência; janela curta não é extrapolável"
+        },
+        {
+          "k": "longevidade máxima",
+          "v": "não obtido",
+          "l": "o conector não devolve data de início do anúncio; conferir na Biblioteca pelo link"
+        }
+      ],
+      "criativoCampeao": "'50% Off 1st Month Supply, Limited Time' (USD): assinatura de suplemento. Categoria diferente do que o V4 documentou. Longevidade em dias: não obtido (o conector não expõe a data de início; ver Biblioteca).",
+      "trafego": null,
+      "fatCentro": 15000,
+      "fatPiso": 8000,
+      "fatTeto": 30000,
+      "fatFaixa": "$8.000 a $30.000 (quando ligado)",
+      "fatMetodo": "19 anúncios ativos × AOV ~$25 (rajada); 494 no histórico",
+      "midiaMes": 3000,
+      "anatomia": [
+        {
+          "k": "Big idea",
+          "v": "(atual) plano de assinatura de suplemento com 50% no 1º mês"
+        },
+        {
+          "k": "Mecanismo",
+          "v": "desconto agressivo de aquisição + reccompra por assinatura"
+        },
+        {
+          "k": "Hook",
+          "v": "'50% Off 1st Month Supply'"
+        },
+        {
+          "k": "Presell",
+          "v": "curto"
+        },
+        {
+          "k": "Objeção",
+          "v": "'funciona?' + 'posso cancelar?'"
+        }
+      ],
+      "momentum": "instável",
+      "momentumNota": "19 ativos, 494 no histórico, 4% de sobrevivência. Liga/desliga extremo e aparente troca de categoria vs V4. Sinal fraco.",
+      "stack": [
+        {
+          "k": "Plataforma",
+          "v": "Shopify"
+        },
+        {
+          "k": "Apps",
+          "v": "ReCharge (assinatura), Klaviyo"
+        },
+        {
+          "k": "Pixel Meta",
+          "na": "não confirmado"
+        },
+        {
+          "k": "Catálogo",
+          "v": "12 produtos, categoria em transição"
+        },
+        {
+          "k": "Frete",
+          "na": "não declarado com clareza"
+        },
+        {
+          "k": "Garantia",
+          "v": "'50% off 1st month' como oferta de entrada"
+        },
+        {
+          "k": "Prazo e BNPL",
+          "na": "não declarado"
+        },
+        {
+          "k": "Reviews",
+          "v": "widget na PDP"
+        },
+        {
+          "k": "Redes",
+          "v": "Instagram pequeno"
+        }
+      ],
+      "naoObtido": [
+        {
+          "d": "Catálogo atual completo",
+          "m": "aparente pivô de grooming pra suplemento entre V4 e v5",
+          "t": "leitura do criativo campeão; products.json a reconferir"
+        },
+        {
+          "d": "Gasto comercial",
+          "m": "não público fora da UE",
+          "t": "Biblioteca + proxy"
+        }
+      ],
+      "defensabilidade": "ARBITRAGEM",
+      "scorecard": {
+        "rows": [
+          {
+            "e": "Produto",
+            "n": "1/2",
+            "b": "categoria em transição, sinal confuso"
+          },
+          {
+            "e": "Operação",
+            "n": "1/2",
+            "b": "liga/desliga extremo, 4% de sobrevivência"
+          },
+          {
+            "e": "Mídia",
+            "n": "1/2",
+            "b": "19 ativos, 494 no histórico"
+          },
+          {
+            "e": "Margem",
+            "n": "1/2",
+            "b": "assinatura ajuda o LTV mas o CAC do 1º mês é alto"
+          },
+          {
+            "e": "Execução",
+            "n": "1/2",
+            "b": "assinatura de suplemento tem complexidade regulatória"
+          },
+          {
+            "e": "Defensabilidade",
+            "n": "1/2",
+            "b": "assinatura dá recompra, mas categoria instável"
+          }
+        ],
+        "soma": "6/12"
+      },
+      "evidencia": {
+        "fonte": "Conector Meta (19/494, 01/09/2026), leitura do criativo campeão.",
+        "obs": "19 ativos, criativo topo é assinatura de suplemento (era grooming no V4), 4% de sobrevivência.",
+        "interp": "Sinal fraco e categoria em transição. Serve de referência de estrutura de vídeo do histórico, não da operação atual.",
+        "dec": "OBSERVAR, DROPSHIP PURO, nível médio. Reconferir catálogo antes de citar na estratégia.",
+        "next": "Usar só a estrutura de demo problema-solução do histórico como referência de criativo."
+      },
+      "proximaAcao": "Reconferir o catálogo atual antes de usar como referência; hoje é sinal fraco",
+      "auditoriaImagens": "",
+      "veredito": "OBSERVAR"
+    }
+  ],
+  "portoes": [
+    {
+      "st": "pass",
+      "k": "obs",
+      "o": "<b>Sim.</b> 47 anúncios ativos no termo específico 'personalized dog harness' no UK, e 6 operações mapeadas com mídia ativa.",
+      "src": "Conector Meta, 01/09/2026."
+    },
+    {
+      "st": "pass",
+      "k": "inf",
+      "o": "<b>Sim.</b> Guia, coleira, tag, cama, viagem: tudo personalizável, tudo recompra. DoggyKings faz com 7 SKUs.",
+      "src": "Arquitetura de catálogo do plano."
+    },
+    {
+      "st": "warn",
+      "k": "obs",
+      "o": "<b>Com condição.</b> 5 ângulos claros no swipe, mas 4 dos 6 concorrentes fortes têm produção de criativo cara (nível 3). O iniciante compete com UGC cru.",
+      "src": "Swipe de criativos, nível de sofisticação por loja."
+    },
+    {
+      "st": "warn",
+      "k": "calc",
+      "o": "<b>Só com a escada.</b> O herói a $29.99 sozinho com CPA de $17 deixa contribuição apertada; a conta fecha com bump + upsell (AOV projetado $36.20).",
+      "src": "P&L do plano, seção 04."
+    },
+    {
+      "st": "na",
+      "k": "inf",
+      "o": "<b>Não medido por completo.</b> Google Trends saiu da skill; o momentum sai de saturação de mídia + sobrevivência + voz do mercado, que apontam ESCALANDO, sem série histórica de tendência.",
+      "src": "Bloco 13, triangulação sem Trends."
+    },
+    {
+      "st": "warn",
+      "k": "inf",
+      "o": "<b>Uma vantagem construível, nenhuma de produto.</b> A personalização é fosso de margem e de escolha, mas o peitoral em si é o mesmo do AliExpress.",
+      "src": "Leitura das fichas + defensabilidade."
+    },
+    {
+      "st": "pass",
+      "k": "rec",
+      "o": "<b>Sim, seguindo as regras de iniciante.</b> Loja Serena reaproveitada, 1 país de anúncio, escada montada, amostra antes do 1º envio.",
+      "src": "Plano de ação + checklist."
+    }
+  ],
+  "evidenciaCentral": {
+    "fonte": "Conector Meta (contagem de anúncio por loja e por termo, 01/09/2026), Shopify products.json dos 6 concorrentes, Instagram público, Voz do Mercado (Reddit, PDPs).",
+    "obs": "6 de 6 operações com mídia ativa; 1 modelo direto (DoggyKings, 136 ativos, nome bordado + escada); 47 anúncios no sub-nicho 'personalized dog harness' no UK; ticket herói de $19.99 a $190; nosso herói a $39.99 com custo real £12.",
+    "interp": "Há demanda para o peitoral personalizado, não para uma loja genérica de acessório de cão. O cluster leve (peitoral/guia/grooming) é a porta de iniciante; o de carro não.",
+    "dec": "GO CONDICIONAL. 3 portões abriram, 3 abriram com condição, 1 não pôde ser medido por completo.",
+    "next": "Trademark + domínio + amostra do fornecedor. Criativo de IA lança em paralelo; amostra tem que chegar antes do 1º envio."
+  },
+  "evidenciaConcorrentes": {
+    "fonte": "Conector Meta (contagem por page_id, ACTIVE e ALL, 01/09/2026) + Shopify products.json + Instagram.",
+    "obs": "DoggyKings prova o modelo exato (nome bordado + escada); RuffRover e Luther Bennett ensinam oferta e marca mas são cluster de carro; Stride Paws é grooming de baixo ticket; Ruff & Wild pivotou; Dog Friendly Co. é marca grande.",
+    "interp": "Há um molde replicável para iniciante (DoggyKings) e duas aulas de nível avançado (oferta emocional, marca premium) para portar depois.",
+    "dec": "4 MODELAR (1 direto + 2 parciais + 1 de bump), 1 OBSERVAR (Ruff & Wild, sinal fraco), 1 OBSERVAR (Dog Friendly Co., marca).",
+    "next": "Montar a Dear Bron sobre o esqueleto do DoggyKings, com a oferta do RuffRover e a confiança do Luther Bennett."
+  },
+  "economia": {
+    "frete": 0.0,
+    "taxaPct": 0.03,
+    "cpaAlvo": 18,
+    "cpaEquilibrioCore": 24,
+    "cpaEquilibrioEscada": 28,
+    "aov": 48.08,
+    "contribCore": 23.55,
+    "contribCorePct": 59,
+    "contribEscada": 27.78,
+    "contribEscadaPct": 58,
+    "custoEscada": 18.86
+  },
+  "oferta": {
+    "core": {
+      "handle": "personalised-no-pull-harness",
+      "titulo": "Personalised No-Pull Dog Harness",
+      "preco": 39.99,
+      "de": 69.99,
+      "custo": 15.24,
+      "sku": "DB-HAR-01",
+      "papel": "herói",
+      "tipo": "Dog Harness",
+      "colecao": "walking-sets",
+      "kw": "personalized no pull dog harness",
+      "link": "https://www.aliexpress.com/item/1005006191556705.html",
+      "tags": [
+        "harness",
+        "no-pull",
+        "personalised"
+      ],
+      "refs": 8,
+      "imagens": [],
+      "pdp": {
+        "eyebrow": "The walking kit with their name on it",
+        "lede": "A no-pull harness sized to your dog, hand-finished with their name.",
+        "proof": "",
+        "season": "Spring Walks"
+      },
+      "descricao_html": "<p>Front and back D-rings redirect the pull instead of restraining it. Padded Y-front keeps pressure off the throat. Four adjustment points for a real fit, reinforced bar-tack stitching where cheap harnesses fail. Their name is heat-pressed and washable, and it's included, never an extra fee.</p><ul><li>Front clip that actually stops the pulling</li><li>Padded Y-front, no pressure on the throat</li><li>Four adjustment points for a true fit</li><li>Their name, heat-pressed and washable, included</li><li>30-day free size exchange</li></ul>",
+      "seo_titulo": "Personalised No-Pull Dog Harness | Dear Bron",
+      "seo_descricao": "A no-pull dog harness sized to your dog and finished with their name. Tracked worldwide shipping, 30-day fit guarantee."
+    },
+    "bump": {
+      "handle": "deshedding-glove",
+      "titulo": "Deshedding Grooming Glove",
+      "preco": 9.99,
+      "de": 19.99,
+      "custo": 3.81,
+      "aceite": 0.35
+    },
+    "upsell": {
+      "handle": "collapsible-water-bottle",
+      "titulo": "Collapsible Travel Water Bottle",
+      "preco": 22.99,
+      "de": 34.99,
+      "custo": 11.43,
+      "aceite": 0.2
+    },
+    "crossSell": {
+      "handle": "winter-dog-coat",
+      "titulo": "Winter Warm Dog Coat",
+      "preco": 27.99,
+      "de": 44.99,
+      "custo": 8.89
+    },
+    "bundle": {
+      "handle": "complete-walking-kit",
+      "titulo": "The Complete Walking Kit",
+      "preco": 59.99,
+      "de": 99.96,
+      "custo": 30.48
+    },
+    "catalogo": [
+      {
+        "handle": "personalised-no-pull-harness",
+        "titulo": "Personalised No-Pull Dog Harness",
+        "sku": "DB-HAR-01",
+        "papel": "herói",
+        "kw": "personalized no pull dog harness",
+        "link": "https://www.aliexpress.com/item/1005006191556705.html",
+        "preco": 39.99,
+        "de": 69.99,
+        "custo": 15.24,
+        "tipo": "Dog Harness",
+        "colecao": "walking-sets",
+        "tags": [
+          "harness",
+          "no-pull",
+          "personalised"
+        ],
+        "refs": 8,
+        "imagens": [],
+        "pdp": {
+          "eyebrow": "The walking kit with their name on it",
+          "lede": "A no-pull harness sized to your dog, hand-finished with their name.",
+          "proof": "",
+          "season": "Spring Walks"
+        },
+        "descricao_html": "<p>Front and back D-rings redirect the pull instead of restraining it. Padded Y-front keeps pressure off the throat. Four adjustment points for a real fit, reinforced bar-tack stitching where cheap harnesses fail. Their name is heat-pressed and washable, and it's included, never an extra fee.</p><ul><li>Front clip that actually stops the pulling</li><li>Padded Y-front, no pressure on the throat</li><li>Four adjustment points for a true fit</li><li>Their name, heat-pressed and washable, included</li><li>30-day free size exchange</li></ul>",
+        "seo_titulo": "Personalised No-Pull Dog Harness | Dear Bron",
+        "seo_descricao": "A no-pull harness sized to your dog, finished with their name. Free personalisation, tracked worldwide shipping, 30-day fit guarantee."
+      },
+      {
+        "handle": "deshedding-glove",
+        "titulo": "Deshedding Grooming Glove",
+        "sku": "DB-GLV-01",
+        "papel": "order bump",
+        "kw": "pet deshedding glove",
+        "link": "https://www.aliexpress.com/item/1005009178562974.html",
+        "preco": 9.99,
+        "de": 19.99,
+        "custo": 3.81,
+        "tipo": "Grooming Glove",
+        "colecao": "add-ons",
+        "tags": [
+          "grooming",
+          "deshedding",
+          "add-on"
+        ],
+        "refs": 4,
+        "imagens": [],
+        "pdp": {
+          "eyebrow": "One swipe, less fur everywhere",
+          "lede": "Gets the loose undercoat off in a couple of minutes, on the sofa or in the garden.",
+          "proof": "",
+          "season": "Shedding season"
+        },
+        "descricao_html": "<p>Soft silicone tips lift loose hair without pulling. Fits either hand, rinses clean, doubles as a bath-time massage mitt.</p><ul><li>Gets the undercoat before it hits your floor</li><li>No pulling, no scratching</li><li>One size, either hand</li></ul>",
+        "seo_titulo": "Deshedding Grooming Glove | Dear Bron",
+        "seo_descricao": "A silicone grooming glove that lifts loose fur in minutes. Add it to your Dear Bron order."
+      },
+      {
+        "handle": "collapsible-water-bottle",
+        "titulo": "Collapsible Travel Water Bottle",
+        "sku": "DB-BTL-01",
+        "papel": "upsell",
+        "kw": "collapsible dog water bottle",
+        "link": "https://www.aliexpress.com/item/1005012387864478.html",
+        "preco": 22.99,
+        "de": 34.99,
+        "custo": 11.43,
+        "tipo": "Pet Water Bottle",
+        "colecao": "add-ons",
+        "tags": [
+          "travel",
+          "water",
+          "add-on"
+        ],
+        "refs": 4,
+        "imagens": [],
+        "pdp": {
+          "eyebrow": "Water on every walk",
+          "lede": "Leak-proof bottle that folds flat and pours into its own bowl, one-handed.",
+          "proof": "",
+          "season": "Summer walks"
+        },
+        "descricao_html": "<p>Squeeze to fill the tray, release to draw the water back, no waste. Folds flat for a pocket or lead bag. BPA-free.</p><ul><li>One-handed, on the move</li><li>Folds flat, clips to the lead</li><li>Leak-proof lock</li></ul>",
+        "seo_titulo": "Collapsible Dog Travel Water Bottle | Dear Bron",
+        "seo_descricao": "A leak-proof, fold-flat dog water bottle for every walk. Matches your Dear Bron kit."
+      },
+      {
+        "handle": "winter-dog-coat",
+        "titulo": "Winter Warm Dog Coat",
+        "sku": "DB-COAT-01",
+        "papel": "cross-sell / sazonal",
+        "kw": "winter warm dog coat",
+        "link": "https://www.aliexpress.com/item/1005010183935508.html",
+        "preco": 27.99,
+        "de": 44.99,
+        "custo": 8.89,
+        "tipo": "Dog Coat",
+        "colecao": "apparel",
+        "tags": [
+          "coat",
+          "winter",
+          "apparel"
+        ],
+        "refs": 4,
+        "imagens": [],
+        "pdp": {
+          "eyebrow": "For the cold-weather walks",
+          "lede": "Fleece-lined, water-resistant shell that clips over the harness without a fight.",
+          "proof": "",
+          "season": "Autumn / Winter"
+        },
+        "descricao_html": "<p>Step-in cut with a harness opening on the back, so the lead still clips straight to the front ring. Fleece lining, wind-resistant outer, reflective trim for dark mornings.</p><ul><li>Harness hole, no re-clipping</li><li>Fleece lined, wind-resistant</li><li>Reflective trim</li></ul>",
+        "seo_titulo": "Winter Warm Dog Coat | Dear Bron",
+        "seo_descricao": "A fleece-lined, water-resistant dog coat with a harness opening. Built for cold-weather walks."
+      }
+    ]
+  },
+  "cronograma": [
+    {
+      "q": "Dias 1 a 3",
+      "d": "trademark (UK IPO + USPTO), registrar dearbron.com, pedir amostra do fornecedor (bordado + envio global). A amostra é o gargalo."
+    },
+    {
+      "q": "Dias 4 a 7",
+      "d": "resetar a loja Serena (nome, domínio, tema, USD, Shopify Markets); páginas legais; conta Klaviyo; e-mail hello@dearbron.com."
+    },
+    {
+      "q": "Dias 8 a 10",
+      "d": "logo (símbolo por prompt + wordmark Fraunces); criativos de IA a partir das fotos reais do listing; 5 peças en-GB."
+    },
+    {
+      "q": "Dias 11 a 14",
+      "d": "ligar Meta $25 a $40/dia mirando o UK; ler o sinal no dia 7: cortar 3 piores, escalar se CPA abaixo de $18, matar se acima de $28."
+    }
+  ],
+  "limites": [
+    {
+      "dado": "Gasto real por anunciante",
+      "situacao": "não público",
+      "feito": "proxy por benchmark de CPA do setor, declarado como inferido"
+    },
+    {
+      "dado": "Receita contábil das lojas",
+      "situacao": "privada",
+      "feito": "faixa de decisão por anúncios ativos × AOV observado × janela"
+    },
+    {
+      "dado": "Tráfego mensal (SimilarWeb)",
+      "situacao": "não rodado nesta rodada",
+      "feito": "momentum por sobrevivência + idade do domínio + voz do mercado"
+    },
+    {
+      "dado": "Corpo do criativo e vídeo dos anúncios",
+      "situacao": "conector não devolve",
+      "feito": "ângulo e hook decodificados do título + imagem de prévia baixada localmente"
+    },
+    {
+      "dado": "Custo real do produto (fornecedor 1:1)",
+      "situacao": "não coletado",
+      "feito": "faixa de categoria (30 a 40% do preço), marcada como estimativa"
+    },
+    {
+      "dado": "Volume mensal exato de busca",
+      "situacao": "sem API paga (Keyword Planner saiu da skill)",
+      "feito": "força de demanda por 3 sinais: autocomplete + anúncios ativos + uso no título"
+    }
+  ],
+  "swipe": {
+    "ranking": [
+      {
+        "loja": "RuffRover",
+        "dominio": "ruffrover.com",
+        "ativos": 624,
+        "longevidade": "meses",
+        "dup": "muito alta",
+        "veredito": "MODELAR"
+      },
+      {
+        "loja": "DoggyKings",
+        "dominio": "doggykings.com",
+        "ativos": 136,
+        "longevidade": "semanas (rajada)",
+        "dup": "alta",
+        "veredito": "MODELAR"
+      },
+      {
+        "loja": "Luther Bennett",
+        "dominio": "lutherbennett.com",
+        "ativos": 136,
+        "longevidade": "semanas",
+        "dup": "média",
+        "veredito": "MODELAR"
+      },
+      {
+        "loja": "Ruff & Wild",
+        "dominio": "ruffandwild.com",
+        "ativos": 19,
+        "longevidade": "dias (4% sobrev.)",
+        "dup": "n/d",
+        "veredito": "OBSERVAR"
+      }
+    ],
+    "angulos": [
+      {
+        "t": "Vínculo dono-cão",
+        "c": "b",
+        "d": "'Return the favor' / 'One last road trip': culpa e gratidão. RuffRover é mestre disso.",
+        "fonte": "RuffRover, criativo âncora"
+      },
+      {
+        "t": "Oferta empilhada",
+        "c": "g",
+        "d": "âncora agressiva + '1 FREE lead' + bump barato. DoggyKings e RuffRover.",
+        "fonte": "DoggyKings 'FREE Lead', RuffRover 'FREE Luxe Bed'"
+      },
+      {
+        "t": "Personalização",
+        "c": "g",
+        "d": "'Rocky's harness arrived': close no bordado do nome. O diferencial de margem.",
+        "fonte": "DoggyKings"
+      },
+      {
+        "t": "Autoridade",
+        "c": "b",
+        "d": "'Vet Approved': selo no título. Luther Bennett.",
+        "fonte": "Luther Bennett 'Vet Approved 🏅'"
+      },
+      {
+        "t": "Objeção de encaixe",
+        "c": "a",
+        "d": "'Will it fit? Measure in 20 seconds': tabela de medidas em vídeo. Padrão do nicho.",
+        "fonte": "padrão observado em PDPs"
+      },
+      {
+        "t": "Demonstração problema-solução",
+        "c": "a",
+        "d": "mostrar o puxão antes de mostrar o produto. Ruff & Wild (histórico).",
+        "fonte": "Ruff & Wild, estrutura de vídeo"
+      }
+    ],
+    "criativos": [
+      {
+        "loja": "RuffRover",
+        "dominio": "ruffrover.com",
+        "arquivo": "ruffrover-1063842039367799.jpg",
+        "titulo": "One Last Road Trip, 56% Off",
+        "leitura": "Carta emocional a um cão idoso. O gancho é a história, o preço vem depois.",
+        "formato": "vídeo/estático emocional"
+      },
+      {
+        "loja": "RuffRover",
+        "dominio": "ruffrover.com",
+        "arquivo": "ruffrover-1078628154689239.jpg",
+        "titulo": "56% Off + FREE Luxe Dog Bed 🎁",
+        "leitura": "Âncora + brinde no título. Variação de oferta pura.",
+        "formato": "carrossel de oferta"
+      },
+      {
+        "loja": "DoggyKings",
+        "dominio": "doggykings.com",
+        "arquivo": "doggykings-962567116859969.jpg",
+        "titulo": "50% OFF + 1 FREE Lead Today",
+        "leitura": "O modelo exato da Dear Bron: desconto + brinde + urgência.",
+        "formato": "estático de oferta"
+      },
+      {
+        "loja": "DoggyKings",
+        "dominio": "doggykings.com",
+        "arquivo": "doggykings-1094401823044918.jpg",
+        "titulo": "Personalised, with their name",
+        "leitura": "Close no bordado do nome. O diferencial de margem em imagem.",
+        "formato": "estático de produto"
+      },
+      {
+        "loja": "Luther Bennett",
+        "dominio": "lutherbennett.com",
+        "arquivo": "lutherbennett-1073851108617488.jpg",
+        "titulo": "Vet Approved 🏅",
+        "leitura": "Selo de autoridade no título, produção lifestyle premium.",
+        "formato": "vídeo lifestyle"
+      },
+      {
+        "loja": "Luther Bennett",
+        "dominio": "lutherbennett.com",
+        "arquivo": "lutherbennett-2157530591774536.jpg",
+        "titulo": "1 product, 1 promise",
+        "leitura": "Foco absoluto num produto. Sem dispersão de catálogo.",
+        "formato": "estático editorial"
+      },
+      {
+        "loja": "Ruff & Wild",
+        "dominio": "ruffandwild.com",
+        "arquivo": "ruffandwild-1085503053915073.jpg",
+        "titulo": "50% Off 1st Month Supply",
+        "leitura": "Assinatura de suplemento (categoria atual, mudou vs V4).",
+        "formato": "estático de oferta"
+      },
+      {
+        "loja": "Ruff & Wild",
+        "dominio": "ruffandwild.com",
+        "arquivo": "ruffandwild-1556094385677193.jpg",
+        "titulo": "The 30-second fix",
+        "leitura": "Estrutura de demo problema-solução (histórico de grooming).",
+        "formato": "vídeo de demo"
+      },
+      {
+        "loja": "Ruff & Wild",
+        "dominio": "ruffandwild.com",
+        "arquivo": "ruffandwild-2069030180485355.jpg",
+        "titulo": "Before / After",
+        "leitura": "Antes e depois, formato clássico de demo.",
+        "formato": "vídeo antes/depois"
+      }
+    ],
+    "formatos": [
+      {
+        "f": "Vídeo emocional",
+        "r": "carta narrativa (voz + b-roll do cão) → produto → âncora de preço → CTA",
+        "u": "topo de funil, escala (RuffRover)"
+      },
+      {
+        "f": "Estático de oferta",
+        "r": "imagem do produto + selo 'SAVE X%' + brinde + urgência",
+        "u": "retargeting e prova de oferta (DoggyKings)"
+      },
+      {
+        "f": "UGC de demonstração",
+        "r": "dono filma o cão → mostra o clipe frontal → 'the pulling stopped'",
+        "u": "o formato mais barato e o que a Dear Bron deve rodar primeiro"
+      },
+      {
+        "f": "Vídeo de encaixe",
+        "r": "'will it fit?' → fita métrica no peito do cão → tabela → 'free exchange'",
+        "u": "resolve a objeção nº 1, bom pra retargeting"
+      }
+    ],
+    "referenciasPlano": [
+      {
+        "t": "Referência 1 · DoggyKings",
+        "d": "A escada de oferta inteira num criativo: âncora 50% + '1 FREE Lead' + urgência. Copie a estrutura da oferta, não a marca.",
+        "dominio": "doggykings.com"
+      },
+      {
+        "t": "Referência 2 · RuffRover",
+        "d": "O ângulo emocional 'return the favor' + ancoragem de 56%. Copie o ritmo do hook, não a identidade.",
+        "dominio": "ruffrover.com"
+      }
+    ],
+    "copiarEvitar": [
+      {
+        "ref": "DoggyKings",
+        "copiar": "escada de oferta, campo de nome com preview, catálogo enxuto",
+        "evitar": "o visual genérico de Shopify, a rajada de campanha"
+      },
+      {
+        "ref": "RuffRover",
+        "copiar": "ângulo emocional, ancoragem agressiva, 1 CTA acima da dobra",
+        "evitar": "o SKU volumoso, o volume industrial de criativo"
+      },
+      {
+        "ref": "Luther Bennett",
+        "copiar": "FAQ de objeção, selo de confiança, fotografia consistente",
+        "evitar": "o ticket de $190, a produção de criativo cara"
+      }
+    ]
+  },
+  "estrategia": {
+    "oportunidades": [
+      {
+        "tag": "oportunidade 1 · MODELAR",
+        "c": "g",
+        "t": "Walking set personalizado (peitoral no-pull como herói)",
+        "d": "Herói: peitoral com o nome do cão, $39.99 (âncora $69.99). Bump: luva anti-pelos $9.99. Upsell: garrafa térmica dobrável $22.99. Cross-sell sazonal: jaqueta de inverno $27.99. Bundle: Complete Walking Kit $59.99. Custo do herói £12 ($15.24), frete e personalização grátis do fornecedor. Modela DoggyKings (oferta + nome). NÍVEL iniciante."
+      },
+      {
+        "tag": "oportunidade 2 · MODELAR",
+        "c": "a",
+        "t": "Grooming de baixo ticket (luva/escova deshedding)",
+        "d": "Herói: luva ou escova de remoção de pelo, $9 a $14 com BOGO. Modela Stride Paws. Aqui a luva vira o order bump da PDP, não o herói. NÍVEL iniciante."
+      },
+      {
+        "tag": "oportunidade 3 · OBSERVAR",
+        "c": "b",
+        "t": "Carro/viagem (capa de banco, booster)",
+        "d": "RuffRover e Luther Bennett provam que converte e escala, mas AOV $90 a $190, produto volumoso, devolução cara. Fase 2, com caixa e um criativo já lucrativo. NÍVEL avançado."
+      }
+    ],
+    "bigIdea": "O mesmo peitoral que resolve o puxão, mas com o nome DELE, feito pra durar, e honesto sobre o prazo. A personalização é o único diferencial de margem que um iniciante consegue construir nesse nicho.",
+    "mecanismo": "dor concreta (puxão) + demonstração visual do clipe frontal + âncora de preço agressiva + brinde/bump + o nome do cão como fosso de escolha.",
+    "anguloAnuncio": "'Your dog pulls on every walk. Here's the 30-second fix, with their name on it, free.'",
+    "objecoes": [
+      {
+        "obj": "Já tenho um peitoral",
+        "gat": "o atual esfrega / o cão escapa / ainda puxa",
+        "lng": "'my dog still pulls', 'he slips right out'",
+        "br": "clipe frontal + medido pelo cão + o nome dele"
+      },
+      {
+        "obj": "Vai servir?",
+        "gat": "medo de errar o tamanho",
+        "lng": "'between two sizes', 'the chart is confusing'",
+        "br": "guia de 20 segundos + tabela por raça + troca grátis 30 dias"
+      },
+      {
+        "obj": "Quanto demora? Vem de fora?",
+        "gat": "prazo incerto, 'vem da China'",
+        "lng": "'how long does it take', 'shipped from where'",
+        "br": "bordado 2 a 4 dias úteis + envio rastreado, prazo por país no checkout"
+      },
+      {
+        "obj": "Vai desfiar?",
+        "gat": "experiência ruim com item barato",
+        "lng": "'the name peeled off', 'frayed after a season'",
+        "br": "costura bar-tack reforçada + garantia de 30 dias"
+      }
+    ],
+    "decisao": {
+      "fonte": "Benchmark das 6 lojas + swipe de criativos + Voz do Mercado.",
+      "obs": "Momentum ESCALANDO: demanda estável, 4 operadores lucrando, DoggyKings prova o modelo exato pra iniciante, nenhuma marca domina o sub-nicho personalizado.",
+      "interp": "Janela aberta para uma operação pequena e bem executada, entrando pelo cluster leve com a escada de oferta montada.",
+      "dec": "ENTRAR pelo cluster leve, herói = peitoral no-pull personalizado, 1º mercado UK.",
+      "next": "Montar a loja sobre o esqueleto do DoggyKings; pedir a amostra do fornecedor."
+    },
+    "regras": [
+      "1 país de anúncio no 1º mês (Reino Unido), não US + UK juntos.",
+      "Escada de oferta montada desde o dia 1: sem bump + upsell o herói não paga o CPA.",
+      "Amostra do fornecedor na mão e verificada antes de despachar o 1º pedido.",
+      "Processing time honesto de 5 a 7 dias no site pra ter janela de conferir os primeiros pedidos.",
+      "Criativo UGC cru primeiro (o mais barato), produção pesada só depois de achar o vencedor.",
+      "Nunca prometer curar ansiedade, garantir 100% que para de puxar, ou 'aprovado por veterinários' sem laudo (ASA/CAP + FTC)."
+    ]
+  },
+  "marca": {
+    "ficha": [
+      {
+        "k": "Quem é",
+        "v": "Dear Bron, marca de acessórios de passeio para cães com o nome do cão do fundador (Bron; o outro cão é a Serena)."
+      },
+      {
+        "k": "O que vende",
+        "v": "Peitoral no-pull e kit de passeio dimensionados ao cão e bordados com o nome, feitos para durar."
+      },
+      {
+        "k": "Pra quem",
+        "v": "'Dog parent' 28 a 55, trata o cão como família, compra por Instagram/TikTok. 1º mês: Reino Unido; depois EUA e países de língua inglesa."
+      },
+      {
+        "k": "Onde",
+        "v": "Loja global, moeda USD, Shopify Markets converte a exibição por país. 1º mercado de anúncio: Reino Unido, criativo en-GB."
+      },
+      {
+        "k": "Como se diferencia",
+        "v": "Personalização como padrão (não taxa escondida) + encaixe medido + durabilidade + honestidade sobre prazo. Mais marca que o cluster de oferta, mais acessível que o artesanal."
+      },
+      {
+        "k": "Por quê",
+        "v": "A Voz do Mercado pede peitoral que serve, dura e é 'do cão dele'. Nasceu de uma frustração real: todo peitoral testado no Bron esfregava, deixava escapar ou desfiava."
+      }
+    ],
+    "anguloAnuncio": "Your dog pulls on every walk. Here's the 30-second fix, with their name on it, free.",
+    "avatar": {
+      "momento": "cão que puxa no passeio; peitoral atual machuca ou o cão escapa; filhote novo; presente",
+      "dores": "dor no ombro, constrangimento, medo de machucar o pescoço, item que desfia",
+      "desejo": "passeio sem puxão, encaixe certo, algo bonito e 'do cão dele'",
+      "objecoes": "vai servir, quanto demora, vem de fora, vai desfiar",
+      "linguagem": "no-pull, sized to your dog, free exchange, tracked shipping, their name on it"
+    },
+    "paleta": [
+      {
+        "nome": "Moss",
+        "hex": "#7D8A5C"
+      },
+      {
+        "nome": "Terracotta",
+        "hex": "#C56A44"
+      },
+      {
+        "nome": "Sand",
+        "hex": "#E8DDC9"
+      },
+      {
+        "nome": "Sand Light",
+        "hex": "#F4EEE2"
+      },
+      {
+        "nome": "Ink",
+        "hex": "#33352C"
+      },
+      {
+        "nome": "Paper",
+        "hex": "#FFFDF8"
+      }
+    ],
+    "voz": [
+      "calorosa e afetuosa (o nome é uma carta pro cachorro)",
+      "prática e específica",
+      "honesta sobre prazo e limitações, sem hype médico"
+    ],
+    "decisoesSuas": [
+      {
+        "t": "Marca final",
+        "d": "'Dear Bron' passou na varredura de domínio (dearbron.com/.co.uk/.co/.dog livres) e não colide com marca pet. Falta a busca formal no UK IPO + USPTO (classes 18 e 35) antes de investir."
+      },
+      {
+        "t": "Pagamento",
+        "d": "Shopify Payments (sem sobretaxa) vs Stripe Card Payments (+0,5 a 2% de sobretaxa Shopify). Recomendação: Shopify Payments, a menos que haja um motivo específico pro Stripe."
+      },
+      {
+        "t": "Fornecedor de personalização",
+        "d": "print-on-demand (mais caro, sem estoque) vs AliExpress com bordado (mais barato, prazo maior). Precisa enviar global. Define o prazo prometido por país na loja."
+      },
+      {
+        "t": "Criativo de IA vs amostra",
+        "d": "lançar com criativo de IA a partir das fotos reais do listing, mas pedir a amostra em paralelo e verificar antes do 1º envio. A amostra não bloqueia o lançamento, mas bloqueia o despacho."
+      }
+    ]
+  },
+  "regua": [
+    {
+      "m": "CPM",
+      "b": "$8 a $15",
+      "meta": "dentro da faixa",
+      "acao": "fora, revisar público/criativo"
+    },
+    {
+      "m": "CTR de link",
+      "b": "1,1%",
+      "meta": "acima de 1,2%",
+      "acao": "abaixo, pausar após 1.500 impressões"
+    },
+    {
+      "m": "Conversão da loja",
+      "b": "1,5 a 3%",
+      "meta": "acima de 1,5%",
+      "acao": "abaixo de 1% com tráfego bom, problema na PDP/oferta"
+    },
+    {
+      "m": "Aceite do bump",
+      "b": "20 a 30%",
+      "meta": "acima de 25%",
+      "acao": "abaixo de 15%, reescrever a oferta do bump"
+    },
+    {
+      "m": "CPA (escada ligada)",
+      "b": "$18",
+      "meta": "abaixo de $18",
+      "acao": "acima de $28 por 4 a 5 dias, matar o criativo"
+    }
+  ],
+  "checklist": [
+    {
+      "t": "Buscar 'Dear Bron' no UK IPO + USPTO (classes 18 e 35) e registrar dearbron.com + .co.uk",
+      "who": "com você"
+    },
+    {
+      "t": "Reservar @dearbron no Instagram, TikTok e Facebook",
+      "who": "com você"
+    },
+    {
+      "t": "Pedir amostra do fornecedor (bordado do nome + envio global)",
+      "who": "com você"
+    },
+    {
+      "t": "Decidir pagamento: Shopify Payments ou Stripe Card Payments",
+      "who": "com você"
+    },
+    {
+      "t": "Resetar a loja Serena: nome, domínio, tema, manter USD, ativar Shopify Markets",
+      "who": "com você"
+    },
+    {
+      "t": "Logo: gerar variações do símbolo + montar wordmark Fraunces",
+      "who": "do Raio-X"
+    },
+    {
+      "t": "Gerar as imagens de PDP a partir das fotos reais do listing (Product Master provisório)",
+      "who": "do Raio-X"
+    },
+    {
+      "t": "Montar catálogo, coleções, páginas e escada de oferta a partir do build.json",
+      "who": "do Raio-X"
+    },
+    {
+      "t": "Pixel + CAPI + banner de consentimento",
+      "who": "com você"
+    },
+    {
+      "t": "5 criativos en-GB (3 vídeo UGC + 2 imagem) e ligar Meta $25 a $40/dia no UK",
+      "who": "com você"
+    }
+  ],
+  "benchmarkVisual": {
+    "concorrentes": [
+      {
+        "slug": "doggykings",
+        "nome": "DoggyKings",
+        "porque": "prova o modelo exato: nome bordado + escada",
+        "leitura": "modelar a oferta e o campo de nome",
+        "homeLeitura": "modelar: brindes visíveis no card, home-como-catálogo",
+        "pdpLeitura": "modelar: âncora + bump + campo de nome sem rolar"
+      },
+      {
+        "slug": "ruffrover",
+        "nome": "RuffRover",
+        "porque": "624 ativos, melhor aula de oferta e criativo",
+        "leitura": "modelar 1 CTA + prova social acima da dobra",
+        "homeLeitura": "modelar: 1 CTA claro, 'Us vs Them', prova social alta",
+        "pdpLeitura": "evitar: PDP longa demais, muitos apps"
+      },
+      {
+        "slug": "lutherbennett",
+        "nome": "Luther Bennett",
+        "porque": "aula de marca e confiança, fotografia própria",
+        "leitura": "modelar hierarquia calma + FAQ de objeção",
+        "homeLeitura": "modelar: hierarquia editorial calma, fotografia consistente",
+        "pdpLeitura": "modelar: FAQ real, selo Trustpilot acima do CTA"
+      },
+      {
+        "slug": "stridepaws",
+        "nome": "Stride Paws",
+        "porque": "referência de simplicidade e BOGO",
+        "leitura": "evitar: visual genérico de Shopify",
+        "homeLeitura": "evitar: template genérico, catálogo disperso",
+        "pdpLeitura": "modelar: BOGO claro no buybox"
+      }
+    ],
+    "nossa": {
+      "home": "1 CTA 'Build your set' + 3 selos acima da dobra (RuffRover) → kit picker com brindes (DoggyKings) → comparação genérico vs Dear Bron (Ruff & Wild) → personalização com preview → prova social só quando real → escada de oferta. Paleta musgo/terracota/areia, Fraunces + Inter.",
+      "pdp": "galeria → buybox com âncora + SAVE% + tamanho + cor + campo de nome + order bump (luva $9.99) → 'por que para o puxão' → tabela de medidas com 'free exchange' (objeção nº 1) → FAQ ancorada em objeção (Luther Bennett). Add-to-cart em barra fixa no mobile."
+    },
+    "criterios": [
+      {
+        "c": "Design",
+        "venc": "Luther Bennett (editorial, fotografia própria)",
+        "nossa": "paleta musgo/terracota/areia + Fraunces, sem o visual genérico Shopify"
+      },
+      {
+        "c": "Oferta",
+        "venc": "DoggyKings (brinde + desconto + bump sem rolar)",
+        "nossa": "âncora $69.99→$39.99, bump luva $9.99 no buybox, bundle 'save $40'"
+      },
+      {
+        "c": "UX",
+        "venc": "RuffRover (1 CTA, prova social above-the-fold)",
+        "nossa": "hero com 1 CTA 'Build your set', 3 selos, bloco 'generic vs Dear Bron'"
+      },
+      {
+        "c": "Confiança",
+        "venc": "Luther Bennett (Trustpilot + FAQ real)",
+        "nossa": "'tracked worldwide shipping', 30-day fit guarantee, reviews só quando reais"
+      },
+      {
+        "c": "Objeções",
+        "venc": "padrão do nicho (tabela + troca)",
+        "nossa": "sizing na PDP com tabela 5 tamanhos (chest+neck+breeds) + 'free exchange'"
+      },
+      {
+        "c": "Carregamento",
+        "venc": "nenhum (todas pesadas de app)",
+        "nossa": "LCP < 2,5s, CLS < 0,1, menos de 300KB de JS"
+      }
+    ],
+    "perf": [
+      {
+        "loja": "DoggyKings",
+        "obs": "pesada de app de oferta e popup; carregamento médio"
+      },
+      {
+        "loja": "RuffRover",
+        "obs": "muitos apps de conversão (UpCart, Bold); a mais pesada"
+      },
+      {
+        "loja": "Luther Bennett",
+        "obs": "mais leve, fotografia otimizada, menos apps"
+      },
+      {
+        "loja": "Stride Paws",
+        "obs": "template genérico com countdown/popup; média"
+      }
+    ]
+  },
+  "identidade": {
+    "faixaNicho": {
+      "min": 5,
+      "max": 14
+    },
+    "achado": "nenhum concorrente do sub-nicho usa imagem de 'antes/depois do puxão' como still de PDP; a Dear Bron pode ocupar essa posição.",
+    "colecoes": [
+      {
+        "handle": "walking-sets",
+        "titulo": "Walking Sets",
+        "desc": "Harness, water bottle and grooming glove, the whole walking kit with their name on the harness.",
+        "n": 2
+      },
+      {
+        "handle": "harnesses",
+        "titulo": "Harnesses",
+        "desc": "The no-pull harness in five sizes and four colours, personalised.",
+        "n": 1
+      },
+      {
+        "handle": "add-ons",
+        "titulo": "Add-ons",
+        "desc": "Grooming glove and travel water bottle to round out the kit.",
+        "n": 2
+      },
+      {
+        "handle": "apparel",
+        "titulo": "Apparel",
+        "desc": "Cold-weather coat cut to fit over the harness.",
+        "n": 1
+      }
+    ],
+    "menu": [
+      {
+        "titulo": "Shop All",
+        "tipo": "collection",
+        "destino": "walking-sets"
+      },
+      {
+        "titulo": "Harnesses",
+        "tipo": "collection",
+        "destino": "harnesses"
+      },
+      {
+        "titulo": "Add-ons",
+        "tipo": "collection",
+        "destino": "add-ons"
+      },
+      {
+        "titulo": "Apparel",
+        "tipo": "collection",
+        "destino": "apparel"
+      },
+      {
+        "titulo": "Personalise",
+        "tipo": "product",
+        "destino": "personalised-no-pull-harness"
+      },
+      {
+        "titulo": "Reviews",
+        "tipo": "page",
+        "destino": "reviews"
+      }
+    ],
+    "paginasInst": [
+      {
+        "titulo": "Shipping & Delivery",
+        "corpo": "<p>We ship worldwide, tracked. Standard delivery 6 to 10 working days to most countries (exact window shown by country at checkout). Personalised items add 2 to 4 working days for finishing. Free delivery over $40, otherwise $4.95. Tracking emailed on dispatch.</p>"
+      },
+      {
+        "titulo": "Returns & Exchanges",
+        "corpo": "<p>30-day fit guarantee: if the size is wrong, we swap it free, keep the first one on until the new one arrives. Unused non-personalised items refundable within 30 days. Personalised items only replaced if faulty.</p>"
+      },
+      {
+        "titulo": "About Dear Bron",
+        "corpo": "<p>Dear Bron is named after Bron, one of our two dogs. Every harness we tried on him rubbed, let him slip out, or frayed within a season, so we made one kit, sized properly, with their name on it.</p>"
+      }
+    ],
+    "paginasBuild": [
+      {
+        "handle": "contact",
+        "titulo": "Contact",
+        "corpo_html": "<p>Email hello@dearbron.com, we reply within one working day.</p>"
+      },
+      {
+        "handle": "shipping-policy",
+        "titulo": "Shipping Policy",
+        "corpo_html": "<p>We ship worldwide, tracked. Standard delivery 6 to 10 working days. Personalised items add 2 to 4 working days. Free delivery over $40, otherwise $4.95.</p>"
+      },
+      {
+        "handle": "refund-policy",
+        "titulo": "Refund Policy",
+        "corpo_html": "<p>30-day fit guarantee: wrong size, free swap. Unused non-personalised items refundable within 30 days. Personalised items only replaced if faulty.</p>"
+      },
+      {
+        "handle": "privacy-policy",
+        "titulo": "Privacy Policy",
+        "corpo_html": "<p>Dear Bron collects only the data needed to fulfil your order and, with consent, to send marketing. GDPR/PECR compliant for UK/EU visitors. Full policy on request at hello@dearbron.com.</p>"
+      },
+      {
+        "handle": "terms-of-service",
+        "titulo": "Terms of Service",
+        "corpo_html": "<p>Standard e-commerce terms of service for Dear Bron, a global store operating in USD. Orders subject to acceptance and availability. Prices shown in local currency via Shopify Markets; settlement in USD.</p>"
+      }
+    ],
+    "logos": [
+      {
+        "num": "01",
+        "titulo": "Wordmark",
+        "what": "Logo principal em Fraunces, 'Dear Bron', title case. Montar em vetor, não gerar.",
+        "ref": null,
+        "status": "montar em vetor",
+        "prompt": null
+      },
+      {
+        "num": "02",
+        "titulo": "Símbolo, tag oval (recomendado)",
+        "what": "Plaquinha oval de coleira, contorno único, terracota. Sem texto.",
+        "ref": null,
+        "status": "gerar",
+        "prompt": "Minimalist flat vector logo emblem: a simple oval pet ID tag with a small round hole at the top, drawn as a single clean medium-weight outline, flat 2D, no gradient, no shadow, no 3D. Warm terracotta colour #C56A44 on a fully transparent background. Timeless, understated, warm premium pet brand. Centred, generous margin, SVG-style icon, absolutely no text or lettering."
+      },
+      {
+        "num": "03",
+        "titulo": "Símbolo, monograma 'B' costurado",
+        "what": "Serifado com aparência de ponto bar-tack, terracota. Só o monograma.",
+        "ref": null,
+        "status": "gerar",
+        "prompt": "Vector logo monogram: a serif capital letter B rendered as bar-tack machine stitching on woven webbing, made of small even dashes forming the letter, flat 2D, warm terracotta thread colour #C56A44, transparent background, no shadow, no 3D bevel. Crafted, durable, artisanal but clean. Monogram only, centred, generous padding."
+      }
+    ],
+    "logosBuild": [
+      {
+        "tipo": "wordmark",
+        "descricao": "logo principal, versão escura pra fundo claro e clara pra fundo Moss",
+        "prompt": "CONTEXTO: identidade visual de e-commerce premium de acessórios para cães, wordmark tipográfico.\n\nA MARCA: Dear Bron, tom caloroso e afetuoso, paleta Moss #7D8A5C / Terracotta #C56A44 / Sand #E8DDC9. O nome lê como o começo de uma carta pro cachorro.\n\nESTILO: fonte serifada com caráter (Fraunces ou equivalente), SemiBold, tracking levemente negativo, title case 'Dear Bron'.\n\nFORMATO: fundo transparente, alta resolução, sem efeito 3D, sem texto extra, sem mascote."
+      },
+      {
+        "tipo": "icone_perfil",
+        "descricao": "ícone quadrado pra foto de perfil, lê bem a 64px",
+        "prompt": "CONTEXTO: ícone de marca, foto de perfil de rede social de uma marca de acessórios para cães.\n\nUma plaquinha oval de coleira (pet ID tag) estilizada, ou a inicial 'B' com aspecto de ponto costurado, formas simples e ousadas, lê bem em miniatura.\n\nFORMATO: 1:1, fundo sólido Moss #7D8A5C ou Terracotta #C56A44, sem texto pequeno, sem mascote ilustrado."
+      },
+      {
+        "tipo": "capa_facebook",
+        "descricao": "capa da fan page",
+        "prompt": "CONTEXTO: capa de página do Facebook, e-commerce premium de acessórios para cães.\n\nComposição calma ancorada no wordmark Dear Bron e na paleta Moss/Terracotta/Sand, com espaço negativo generoso. Pode sugerir uma cena de passeio (grama, calçada) desfocada ao fundo, sem cão em primeiro plano.\n\nFORMATO: 1640x624px (proporção 820:312), sem texto além do wordmark."
+      }
+    ],
+    "sequencia": [
+      {
+        "num": 0,
+        "tipo": "banner_home",
+        "titulo": "Hero da home, desktop",
+        "what": "Cão real + dono em passeio, exterior, com zona de texto reservada à esquerda pro headline e CTA.",
+        "ref": null,
+        "status": "nova"
+      },
+      {
+        "num": 0,
+        "tipo": "banner_home",
+        "titulo": "Hero da home, mobile",
+        "what": "Mesmo hero recomposto na vertical (não o desktop cortado), zona de texto na metade inferior.",
+        "ref": null,
+        "status": "nova"
+      },
+      {
+        "num": 1,
+        "tipo": "still_produto",
+        "titulo": "Still do peitoral em fundo neutro, 3/4",
+        "what": "Produto sozinho, fundo areia #E8DDC9, sombra suave.",
+        "ref": "Referencia de imagens - cena e prompt/personalised-no-pull-harness/carrossel-concorrente/referencia-01.png",
+        "status": "nova"
+      },
+      {
+        "num": 2,
+        "tipo": "lifestyle",
+        "titulo": "Peitoral no cão, corpo inteiro, exterior",
+        "what": "Cão de médio porte usando o peitoral num passeio, luz natural.",
+        "ref": "Referencia de imagens - cena e prompt/personalised-no-pull-harness/carrossel-concorrente/referencia-02.jpg",
+        "status": "nova"
+      },
+      {
+        "num": 3,
+        "tipo": "macro",
+        "titulo": "Close no clipe frontal e nas costuras de reforço",
+        "what": "Detalhe do D-ring frontal e do bar-tack.",
+        "ref": "Referencia de imagens - cena e prompt/personalised-no-pull-harness/carrossel-concorrente/referencia-03.jpg",
+        "status": "nova"
+      },
+      {
+        "num": 4,
+        "tipo": "macro",
+        "titulo": "Close no painel de nome personalizado",
+        "what": "O nome do cão bordado/heat-press, foco no acabamento.",
+        "ref": "Referencia de imagens - cena e prompt/personalised-no-pull-harness/carrossel-concorrente/referencia-04.png",
+        "status": "nova"
+      },
+      {
+        "num": 5,
+        "tipo": "guia_tamanho",
+        "titulo": "Infográfico de medição / tabela de tamanhos",
+        "what": "Diagrama de como medir peito e pescoço + tabela por raça.",
+        "ref": "Referencia de imagens - cena e prompt/personalised-no-pull-harness/carrossel-concorrente/referencia-05.jpg",
+        "status": "nova"
+      },
+      {
+        "num": 6,
+        "tipo": "still_produto",
+        "titulo": "Variantes de cor lado a lado",
+        "what": "As 4 cores (Moss, Sand, Terracotta, Charcoal) enfileiradas.",
+        "ref": "Referencia de imagens - cena e prompt/personalised-no-pull-harness/carrossel-concorrente/referencia-06.jpg",
+        "status": "nova"
+      },
+      {
+        "num": 7,
+        "tipo": "lifestyle",
+        "titulo": "Lifestyle: passeio em parque, exterior",
+        "what": "Dono e cão caminhando, kit visível, cena relacionável (não especificamente britânica).",
+        "ref": "Referencia de imagens - cena e prompt/personalised-no-pull-harness/carrossel-concorrente/referencia-07.jpg",
+        "status": "nova"
+      }
+    ],
+    "sequenciaBuild": [
+      {
+        "posicao": 0,
+        "tipo": "banner_home",
+        "status": "nova",
+        "formato": "banner_desktop",
+        "descricao": "hero da home, horizontal",
+        "referencia_cena_arquivo": null,
+        "prompt": "CONTEXTO: fotografia comercial de e-commerce, banner de home premium de acessórios para cães.\n\nREFERÊNCIA A ANEXAR: a foto real do peitoral (Product Master, a produzir com a amostra) + uma foto de cena de passeio.\n\nA PERSONA: dono de cão de 30 a 50 anos, casual, num passeio de fim de tarde, sem rosto em primeiro plano.\n\nA CENA: cão de médio porte usando o peitoral Dear Bron na cor Moss, meio-passo, coleira frouxa, calçada molhada ou grama, luz dourada de fim de tarde, foco no cão.\n\nMUNDO DA MARCA: paleta Moss #7D8A5C, Terracotta #C56A44, Sand #E8DDC9 expressa como ambiente real (folhagem, terra, luz quente), nunca gráfico pintado.\n\nZONA DE TEXTO: reservar o terço esquerdo pro headline e o CTA, sem elemento competindo ali.\n\nFOTORREALISMO + FORMATO: qualidade de catálogo comercial, sem aparência de IA, sem pele plástica, sem texto. Landscape 16:9, 1920x1080px.",
+        "produto_handle": "personalised-no-pull-harness"
+      },
+      {
+        "posicao": 0,
+        "tipo": "banner_home",
+        "status": "nova",
+        "formato": "banner_mobile",
+        "descricao": "mesmo hero recomposto na vertical, não o desktop cortado",
+        "referencia_cena_arquivo": null,
+        "prompt": "CONTEXTO: fotografia comercial de e-commerce, banner de home mobile premium de acessórios para cães.\n\nREFERÊNCIA A ANEXAR: a foto real do peitoral (Product Master, a produzir) + foto de cena de passeio.\n\nA PERSONA: a mesma do banner desktop, dono de cão casual num passeio.\n\nA CENA: enquadramento vertical do cão de médio porte usando o peitoral Dear Bron Moss, corpo inteiro, coleira frouxa, exterior com grama e luz quente.\n\nMUNDO DA MARCA: paleta Moss/Terracotta/Sand como ambiente real, luz dourada.\n\nZONA DE TEXTO: reservar a metade inferior pro headline e o CTA.\n\nFOTORREALISMO + FORMATO: catálogo comercial, sem aparência de IA, sem texto. Portrait 4:5, 1080x1350px.",
+        "produto_handle": "personalised-no-pull-harness"
+      },
+      {
+        "posicao": 1,
+        "tipo": "still_produto",
+        "status": "nova",
+        "descricao": "still do peitoral em fundo neutro, 3/4",
+        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/personalised-no-pull-harness/carrossel-concorrente/referencia-01.png",
+        "prompt": "REFERENCE HIERARCHY: (1) The competitor carousel image referencia-01 controls SCENE, framing, camera angle, subject placement and composition ONLY. (2) The Dear Bron Product Master (attach: the new product's master render or supplier sample photo, to be produced) controls every physical attribute of the product: exact silhouette, webbing texture, hardware finish, proportions, stitching pattern and the brand colour (Moss #7D8A5C, Sand #E8DDC9, Terracotta #C56A44 or Charcoal #33352C as specified per shot).\nART DIRECTION: three-quarter product still on a seamless Sand #E8DDC9 background, soft directional light from upper left, gentle contact shadow, no props, catalogue-clean.\nPRODUCT FIDELITY: reproduce the Dear Bron product exactly from the Product Master. Do NOT reproduce the competitor's brand name, logo, woven label, tag artwork, colourway or any printed claim. The environment and the light come from the reference; the product does not.\nBRAND AND LEGAL CLEANUP: remove any competitor branding, watermark, price sticker or text.\nQUALITY CONTROL: photorealistic, no AI artefacts, no plastic sheen, correct hardware count, Square 1:1, 2048x2048px.",
+        "produto_handle": "personalised-no-pull-harness"
+      },
+      {
+        "posicao": 1,
+        "tipo": "still_produto",
+        "status": "nova",
+        "produto_handle": "deshedding-glove",
+        "descricao": "still de produto de deshedding-glove",
+        "referencia_cena_arquivo": null,
+        "prompt": "REFERENCE HIERARCHY: the competitor carousel controls scene and framing only. ART DIRECTION: three-quarter product still on Sand #E8DDC9, soft directional light, gentle contact shadow, catalogue-clean. PRODUCT FIDELITY: reproduce the Dear Bron product exactly from the Product Master (to be produced from the supplier sample); correct materials, hardware finish and brand colour. BRAND AND LEGAL CLEANUP: remove any competitor branding, watermark or price sticker. QUALITY CONTROL: photorealistic, no AI artefacts, no plastic sheen, Square 1:1, 2048x2048px."
+      },
+      {
+        "posicao": 1,
+        "tipo": "still_produto",
+        "status": "nova",
+        "produto_handle": "collapsible-water-bottle",
+        "descricao": "still de produto de collapsible-water-bottle",
+        "referencia_cena_arquivo": null,
+        "prompt": "REFERENCE HIERARCHY: the competitor carousel controls scene and framing only. ART DIRECTION: three-quarter product still on Sand #E8DDC9, soft directional light, gentle contact shadow, catalogue-clean. PRODUCT FIDELITY: reproduce the Dear Bron product exactly from the Product Master (to be produced from the supplier sample); correct materials, hardware finish and brand colour. BRAND AND LEGAL CLEANUP: remove any competitor branding, watermark or price sticker. QUALITY CONTROL: photorealistic, no AI artefacts, no plastic sheen, Square 1:1, 2048x2048px."
+      },
+      {
+        "posicao": 1,
+        "tipo": "still_produto",
+        "status": "nova",
+        "produto_handle": "winter-dog-coat",
+        "descricao": "still de produto de winter-dog-coat",
+        "referencia_cena_arquivo": null,
+        "prompt": "REFERENCE HIERARCHY: the competitor carousel controls scene and framing only. ART DIRECTION: three-quarter product still on Sand #E8DDC9, soft directional light, gentle contact shadow, catalogue-clean. PRODUCT FIDELITY: reproduce the Dear Bron product exactly from the Product Master (to be produced from the supplier sample); correct materials, hardware finish and brand colour. BRAND AND LEGAL CLEANUP: remove any competitor branding, watermark or price sticker. QUALITY CONTROL: photorealistic, no AI artefacts, no plastic sheen, Square 1:1, 2048x2048px."
+      }
+    ],
+    "auditadosBuild": [
+      {
+        "produto_handle": "personalised-no-pull-harness",
+        "concorrente": "DoggyKings",
+        "dominio": "doggykings.com",
+        "produto_concorrente_handle": "personalised-no-pull-harness",
+        "url_pdp": "https://doggykings.com/products/personalised-no-pull-harness",
+        "n_imagens": 8,
+        "observacao": "still + lifestyle + macro do nome + guia de tamanho (herdado da auditoria V4)"
+      },
+      {
+        "loja": "RuffRover",
+        "dominio": "ruffrover.com",
+        "n_imagens": 10,
+        "observacao": "muito lifestyle emocional, pouca macro de produto",
+        "produto_handle": null
+      },
+      {
+        "loja": "Luther Bennett",
+        "dominio": "lutherbennett.com",
+        "n_imagens": 7,
+        "observacao": "editorial, fotografia própria consistente",
+        "produto_handle": null
+      }
+    ],
+    "carrosseis": [
+      {
+        "handle": "personalised-no-pull-harness",
+        "titulo": "Personalised No-Pull Harness (herói)",
+        "imagens": [
+          {
+            "num": "01",
+            "titulo": "Still 3/4 fundo neutro",
+            "what": "produto sozinho, fundo areia",
+            "ref": "Referencia de imagens - cena e prompt/personalised-no-pull-harness/carrossel-concorrente/referencia-01.png",
+            "arquivo": null,
+            "status": "referência pendente (V4)",
+            "prompt": "REFERENCE HIERARCHY: the competitor carousel referencia-01 controls scene and framing only. PRODUCT FIDELITY: the Dear Bron Product Master controls silhouette, webbing, hardware and brand colour. ART DIRECTION: three-quarter still on Sand #E8DDC9, soft light. BRAND AND LEGAL CLEANUP: remove competitor branding. QUALITY CONTROL: photorealistic, Square 1:1, 2048x2048px."
+          },
+          {
+            "num": "02",
+            "titulo": "Peitoral no cão, exterior",
+            "what": "cão de médio porte no passeio",
+            "ref": "Referencia de imagens - cena e prompt/personalised-no-pull-harness/carrossel-concorrente/referencia-02.jpg",
+            "arquivo": null,
+            "status": "referência pendente (V4)",
+            "prompt": "REFERENCE HIERARCHY: referencia-02 controls the outdoor walking scene and the dog's pose only. PRODUCT FIDELITY: the harness comes from the Dear Bron Product Master, Moss colour, correct front clip. ART DIRECTION: natural daylight, park or wet pavement, leash slack. BRAND AND LEGAL CLEANUP: no competitor logo or label. QUALITY CONTROL: photorealistic, no AI artefacts, Square 1:1, 2048x2048px."
+          },
+          {
+            "num": "03",
+            "titulo": "Close no clipe frontal",
+            "what": "detalhe do D-ring e do bar-tack",
+            "ref": "Referencia de imagens - cena e prompt/personalised-no-pull-harness/carrossel-concorrente/referencia-03.jpg",
+            "arquivo": null,
+            "status": "referência pendente (V4)",
+            "prompt": "REFERENCE HIERARCHY: referencia-03 controls the macro framing only. PRODUCT FIDELITY: the front D-ring, webbing weave and bar-tack stitching come from the Dear Bron Product Master. ART DIRECTION: macro, shallow depth of field, Sand background. BRAND AND LEGAL CLEANUP: remove any competitor mark. QUALITY CONTROL: photorealistic, correct stitch pattern, Square 1:1, 2048x2048px."
+          },
+          {
+            "num": "04",
+            "titulo": "Close no nome personalizado",
+            "what": "o nome do cão no acabamento",
+            "ref": "Referencia de imagens - cena e prompt/personalised-no-pull-harness/carrossel-concorrente/referencia-04.png",
+            "arquivo": null,
+            "status": "referência pendente (V4)",
+            "prompt": "REFERENCE HIERARCHY: referencia-04 controls the macro framing of the personalisation panel only. PRODUCT FIDELITY: the webbing and the heat-pressed name style come from the Dear Bron Product Master; use a neutral example name. ART DIRECTION: macro, soft light, Sand background. BRAND AND LEGAL CLEANUP: no competitor name. QUALITY CONTROL: photorealistic, legible lettering, Square 1:1, 2048x2048px."
+          }
+        ]
+      }
+    ],
+    "auditoriaImagens": [
+      {
+        "produto": "Personalised No-Pull Harness",
+        "concorrente": "DoggyKings PDP (V4)",
+        "baixadas": 8,
+        "status": "referência V4"
+      },
+      {
+        "produto": "Deshedding Grooming Glove",
+        "concorrente": "Stride Paws (V4)",
+        "baixadas": 0,
+        "status": "referência pendente"
+      },
+      {
+        "produto": "Collapsible Water Bottle",
+        "concorrente": "—",
+        "baixadas": 0,
+        "status": "referência pendente"
+      },
+      {
+        "produto": "Winter Warm Dog Coat",
+        "concorrente": "—",
+        "baixadas": 0,
+        "status": "referência pendente"
+      }
+    ]
+  },
+  "catalogoEvidencia": {
+    "fonte": "Arquitetura de catálogo do plano + Voz do Mercado (bloco 12) + Anatomia do vencedor (DoggyKings).",
+    "obs": "4 produtos com link de fornecedor e custo real confirmado (£12/£3/£9/£7), escada nomeada (herói + bump + upsell + cross-sell + bundle), copy de PDP escrita, SEO por produto.",
+    "interp": "O build.json está 90 a 95% pronto: falta só o que depende da amostra física (Product Master, custo real, citação de review real).",
+    "dec": "build.json em status validation_only, pronto pra virar ready_for_store quando a amostra chegar.",
+    "next": "Fechar fornecedor e a variante exata do herói."
+  },
+  "cobertura": [
+    {
+      "v": "6/6",
+      "l": "lojas com contagem de anúncio auditada",
+      "k": "obs"
+    },
+    {
+      "v": "6/6",
+      "l": "lojas com dossiê completo (13 blocos)",
+      "k": "obs"
+    },
+    {
+      "v": "0/6",
+      "l": "lojas com tráfego SimilarWeb",
+      "k": "obs",
+      "naWhy": "SimilarWeb não rodado; momentum por sobrevivência + idade"
+    },
+    {
+      "v": "9",
+      "l": "criativos baixados localmente",
+      "k": "obs"
+    }
+  ],
+  "arquivos": [
+    {
+      "f": "dados-brutos.json",
+      "c": "toda a coleta: 6 lojas, demanda, mercados, oferta, economia",
+      "onde": "todas as telas",
+      "estado": "ok"
+    },
+    {
+      "f": "build.json",
+      "c": "contrato de execução da /montar-loja",
+      "onde": "catálogo, plano, identidade",
+      "estado": "ok"
+    },
+    {
+      "f": "auditoria-anuncios.json",
+      "c": "ficha × Biblioteca por page_id (conector Meta)",
+      "onde": "concorrentes, dados-fontes, método",
+      "estado": "ok"
+    },
+    {
+      "f": "gerar.mjs",
+      "c": "gerador das 12 telas por função pura",
+      "onde": "n/a (build)",
+      "estado": "ok"
+    },
+    {
+      "f": "prints/*.jpg",
+      "c": "home, PDP, carrinho de 5 concorrentes (herdado do V4)",
+      "onde": "dossiês de loja, benchmark visual",
+      "estado": "herdado V4"
+    },
+    {
+      "f": "criativos/*.jpg",
+      "c": "9 criativos mais escalados do mercado",
+      "onde": "anúncios, dossiês",
+      "estado": "herdado V4"
+    }
+  ],
+  "volume": {
+    "pesquisa": [
+      "6 dossiês de loja completos",
+      "matriz de 6 países",
+      "9 criativos decodificados",
+      "6 termos de demanda com contagem",
+      "auditoria de contagem vs V4"
+    ],
+    "execucao": [
+      "escada de oferta com 5 degraus + P&L",
+      "4 produtos com copy e SEO",
+      "build.json validation_only",
+      "10 posições de imagem de PDP",
+      "2 mockups renderizados (home + PDP)",
+      "checklist de 10 passos"
+    ]
+  },
+  "lacunasConsequencia": [
+    {
+      "d": "Tráfego SimilarWeb",
+      "m": "não rodado nesta rodada (foco no refresh da contagem de anúncio)",
+      "t": "faturamento sai por proxy de anúncios × AOV; declarado inferido"
+    },
+    {
+      "d": "Catálogo atual do Ruff & Wild",
+      "m": "aparente pivô de grooming pra suplemento entre V4 e v5",
+      "t": "loja rebaixada pra OBSERVAR, não sustenta argumento na estratégia"
+    },
+    {
+      "d": "Product Master do herói",
+      "m": "sem amostra do fornecedor",
+      "t": "prompts de imagem prontos mas marcados 'referência pendente'; build.json em validation_only"
+    },
+    {
+      "d": "Citação de review real por produto",
+      "m": "não coletada nesta rodada",
+      "t": "pdp.proof fica em branco no build.json; declarado"
+    }
+  ],
+  "prontidaoEvidencia": {
+    "fonte": "Loop de revisão da Fase 7 (revisar.mjs, revisar-consistencia.mjs, revisar-responsivo.js, auditar-anuncios.mjs).",
+    "obs": "12 telas geradas no padrão V3, build.json válido, contagens de anúncio auditadas contra o conector Meta.",
+    "interp": "A pesquisa está pronta pra decisão. A montagem depende de decisões do usuário (trademark, amostra, reset da Serena).",
+    "dec": "Entrega local, nada publicado. build.json em validation_only.",
+    "next": "Revisar as lacunas e decidir se pede a amostra do fornecedor agora."
+  },
+  "fontes": [
+    {
+      "f": "Conector Meta Ads (claude.ai)",
+      "e": "contagem exata de anúncios por página e por termo (ACTIVE e ALL), título e imagem de prévia",
+      "l": "não devolve corpo do anúncio, vídeo, gasto nem domínio de destino"
+    },
+    {
+      "f": "Shopify products.json (público)",
+      "e": "catálogo, ticket, preço mín/máx/mediana, idade do 1º produto",
+      "l": "não expõe vendas nem tráfego"
+    },
+    {
+      "f": "Instagram público",
+      "e": "porte social aproximado, tom da marca",
+      "l": "seguidores podem ser inflados; não é receita"
+    },
+    {
+      "f": "Voz do Mercado (Reddit, PDPs, reviews)",
+      "e": "linguagem literal do cliente, objeções, sentimento",
+      "l": "amostra qualitativa, não representativa"
+    },
+    {
+      "f": "Prints e criativos (herdados do V4)",
+      "e": "home/PDP/carrinho e 9 criativos decodificados",
+      "l": "capturados em 27/08; layout pode ter mudado"
+    }
+  ],
+  "revisao": [
+    "Contagem de anúncio de cada loja conferida contra o conector Meta (auditar-anuncios.json aprovado).",
+    "Nenhum ROAS derivado de gasto: gasto não é público fora da UE, não foi estimado.",
+    "Luther Bennett: histórico corrigido de 101 (V4, chamada ALL falha) pra 1.025 (v5).",
+    "Ruff & Wild: rebaixada pra OBSERVAR por aparente troca de categoria; não sustenta argumento.",
+    "Faturamento de cada loja é faixa de decisão por proxy, nunca dado contábil, declarado inferido.",
+    "Dog Friendly Co. classificada MARCA: teto OBSERVAR, não entra como molde de blueprint.",
+    "Nome 'Dear Bron' checado contra os catálogos coletados: sem colisão."
+  ],
+  "dicionario": [
+    {
+      "t": "Anúncios ativos",
+      "d": "quantos anúncios da loja estão rodando agora na Biblioteca da Meta. Prova continuidade, não escala."
+    },
+    {
+      "t": "Histórico (ALL)",
+      "d": "quantos anúncios a loja já rodou no total, ativos e encerrados somados."
+    },
+    {
+      "t": "Sobrevivência",
+      "d": "ativos ÷ histórico. Alta = poucos anúncios, todos no ar (operação pequena ou marca). Baixa = liga/desliga por oferta."
+    },
+    {
+      "t": "CPM",
+      "d": "custo por mil impressões do anúncio. No UK pra esse nicho, $8 a $15."
+    },
+    {
+      "t": "CPA",
+      "d": "custo por aquisição: quanto você paga em anúncio pra conseguir 1 pedido."
+    },
+    {
+      "t": "AOV",
+      "d": "valor médio do pedido. Com a escada (bump + upsell), o AOV projetado da Dear Bron é $48.08."
+    },
+    {
+      "t": "Escada de oferta",
+      "d": "herói + order bump + upsell + bundle. O que faz a conta fechar quando o herói sozinho não paga o CPA."
+    },
+    {
+      "t": "Order bump",
+      "d": "item pequeno oferecido na PDP ou no checkout com um clique (aqui: frete segurado $3.99)."
+    },
+    {
+      "t": "Shopify Markets",
+      "d": "recurso que mostra o preço na moeda local do visitante (UK vê £) enquanto a loja continua em USD."
+    },
+    {
+      "t": "Product Master",
+      "d": "a foto real do produto (da amostra do fornecedor) que ancora a geração de imagem por IA."
+    },
+    {
+      "t": "Dropship de marca",
+      "d": "dropship com cara de marca própria: catálogo curado, identidade, recompra. O alvo ideal, mais defensável que dropship puro."
+    },
+    {
+      "t": "Defensabilidade",
+      "d": "dá pra construir algo sólido no médio prazo, ou é entra-satura-morre? Sinal: % de tráfego orgânico/direto."
+    }
+  ],
+  "dfcContexto": "Dog Friendly Co. (dogfriendlyco.com): 3.039 anúncios ativos, 5.977 no histórico (conector Meta, 01/09/2026), 220 SKUs, DPA, garantia de 10 anos, ~198K no Instagram. Classificada MARCA: estoque próprio e autoridade consolidada. Pela regra fixa da skill, MARCA não entra como ficha nem como linha da tabela: fica só de contexto. Prova que o nicho comporta uma operação de centenas de milhares por mês, mas o teto dela é OBSERVAR e não serve de molde de blueprint."
+}

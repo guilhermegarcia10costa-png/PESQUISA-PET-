@@ -1,0 +1,11 @@
+ETAPA 07, CRIATIVOS DE ANÚNCIO
+(módulos 09 e B do curso)
+
+Criativos de anúncio pra Meta e Google, a ponta final da jornada, depois
+que produto (04-produtos/), loja (05-loja/) e identidade (03-marca/) já
+estão prontos pra sustentar tráfego pago.
+
+Guarde aqui os criativos gerados (imagem e vídeo) e a copy de cada anúncio.
+Use como referência o ranking de criativos vencedores dos concorrentes,
+disponível em ../01-pesquisa/paginas/loja-*.html, é o que já provou
+funcionar no nicho.

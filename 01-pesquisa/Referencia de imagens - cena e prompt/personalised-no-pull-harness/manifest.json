@@ -1,0 +1,90 @@
+{
+  "produto": "personalised-no-pull-harness",
+  "competitor_page": "https://doggykings.com/products/dogharness",
+  "competitor_store": "doggykings.com",
+  "expected_carousel_count": 8,
+  "carousel_total_at_origin": 20,
+  "downloaded": 8,
+  "posicoes": [
+    {
+      "posicao": 1,
+      "arquivo": "carrossel-concorrente/referencia-01.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0660/0903/9066/files/Copie_de_Rocky_2_1_282c947d-d7bb-45b6-a6cc-d2d677419aba.png",
+      "url_pdp_origem": "https://doggykings.com/products/dogharness",
+      "cena": "still de produto em fundo neutro, 3/4",
+      "funcao_comercial": "thumbnail / primeira impressão",
+      "sha256": "643606945cd16a70",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 2,
+      "arquivo": "carrossel-concorrente/referencia-02.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0660/0903/9066/products/5ph.jpg",
+      "url_pdp_origem": "https://doggykings.com/products/dogharness",
+      "cena": "peitoral no cão, corpo inteiro, exterior",
+      "funcao_comercial": "demonstração de produto",
+      "sha256": "1e3a8934fedaf535",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 3,
+      "arquivo": "carrossel-concorrente/referencia-03.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0660/0903/9066/products/9_e6cdec5f-fe68-4b9c-928c-6f9202353b70.jpg",
+      "url_pdp_origem": "https://doggykings.com/products/dogharness",
+      "cena": "close no clipe frontal e nas costuras de reforço",
+      "funcao_comercial": "demonstração de produto",
+      "sha256": "9937d40eef70b619",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 4,
+      "arquivo": "carrossel-concorrente/referencia-04.png",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0660/0903/9066/products/image_2022_01_20T07_50_12_277Z_a5e1b6b0-f893-4677-821b-15fe3d4cd2bc.png",
+      "url_pdp_origem": "https://doggykings.com/products/dogharness",
+      "cena": "close no painel de nome personalizado",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "5f7bd16f6d31873e",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 5,
+      "arquivo": "carrossel-concorrente/referencia-05.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0660/0903/9066/products/3ph.jpg",
+      "url_pdp_origem": "https://doggykings.com/products/dogharness",
+      "cena": "infográfico de medição / tabela de tamanhos",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "da664d1f23e4acec",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 6,
+      "arquivo": "carrossel-concorrente/referencia-06.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0660/0903/9066/products/1ph.jpg",
+      "url_pdp_origem": "https://doggykings.com/products/dogharness",
+      "cena": "variantes de cor lado a lado",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "43ad7c5289f60492",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 7,
+      "arquivo": "carrossel-concorrente/referencia-07.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0660/0903/9066/products/7ph.jpg",
+      "url_pdp_origem": "https://doggykings.com/products/dogharness",
+      "cena": "lifestyle: passeio em parque britânico",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "e002f2940f993b58",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 8,
+      "arquivo": "carrossel-concorrente/referencia-08.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0660/0903/9066/products/2ph.jpg",
+      "url_pdp_origem": "https://doggykings.com/products/dogharness",
+      "cena": "detalhe da fivela de ajuste de 4 pontos",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "f9bed2e7776a7718",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+ETAPA 03, COMUNICAÇÃO E IDENTIDADE VISUAL DA MARCA
+(módulo 05 do curso, começando pela aula 5.1 "Do brief à comunicação da marca")
+
+Esta etapa parte do brief que você travou em 02-brief/ e produz os
+entregáveis de marca: comunicação (nome, tom, palavras) e visual (logo,
+banners).
+
+O que fazer, nesta ordem:
+1. Abra comunicacao-da-marca.md aqui do lado e preencha, com a ajuda de uma
+   IA (ChatGPT ou Claude), a partir do brief travado: nome da marca (com
+   domínio verificado), tom de voz em regras escritas, banco de palavras
+   (usa/não usa, a lista de "não usa" é a mais importante, evita a IA cair
+   em copy genérica de dropshipping), frase de marca, gatilhos e a regra de
+   compliance da categoria.
+2. Com o nome e o tom decididos, abra
+   ../01-pesquisa/paginas/identidade-visual.html, os prompts de logo e
+   banner já estão prontos lá. Copie, gere no ChatGPT ou Gemini, e salve:
+   - logos em logos/
+   - banners em banners/
+
+Depois de pronto, vá para a etapa 04-produtos/.

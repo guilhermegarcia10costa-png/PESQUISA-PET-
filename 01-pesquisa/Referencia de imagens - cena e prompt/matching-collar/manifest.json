@@ -1,0 +1,90 @@
+{
+  "produto": "matching-collar",
+  "competitor_page": "https://tidytailsworld.com/products/tidytails-comfort-collar-navy-gold",
+  "competitor_store": "tidytailsworld.com",
+  "expected_carousel_count": 8,
+  "carousel_total_at_origin": 8,
+  "downloaded": 8,
+  "posicoes": [
+    {
+      "posicao": 1,
+      "arquivo": "carrossel-concorrente/referencia-01.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/TIDYTAILS_18_f13e940c-f8e2-4391-9635-6fc3a81715e8.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-comfort-collar-navy-gold",
+      "cena": "still da coleira em fundo neutro",
+      "funcao_comercial": "thumbnail / primeira impressão",
+      "sha256": "7d674ab0eba5464d",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 2,
+      "arquivo": "carrossel-concorrente/referencia-02.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/tidytails-comfort-collar-navy-gold-01_02078610-5718-4d20-b6a6-28abdf82250a.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-comfort-collar-navy-gold",
+      "cena": "coleira no pescoço do cão, close",
+      "funcao_comercial": "demonstração de produto",
+      "sha256": "dabbdab1770d6f1c",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 3,
+      "arquivo": "carrossel-concorrente/referencia-03.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/TIDYTAILS_14_2f1e2605-2bd4-4332-9cd3-cb8eda574b86.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-comfort-collar-navy-gold",
+      "cena": "close na fivela e no D-ring",
+      "funcao_comercial": "demonstração de produto",
+      "sha256": "d61e209b1b62e7f8",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 4,
+      "arquivo": "carrossel-concorrente/referencia-04.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/tidytails-comfort-collar-navy-gold-02_e8426f76-77dc-411c-a9b4-e35b794d481e.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-comfort-collar-navy-gold",
+      "cena": "coleira + guia + peitoral combinando",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "b0f4dd6eb0ed7726",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 5,
+      "arquivo": "carrossel-concorrente/referencia-05.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/tidytails-comfort-collar-navy-gold-03_c2814c6a-4f33-42b3-ab78-75f5e6cb4ec9.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-comfort-collar-navy-gold",
+      "cena": "variantes de cor",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "abc43824e5e1c0a8",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 6,
+      "arquivo": "carrossel-concorrente/referencia-06.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/tidytails-comfort-collar-adjustable-length_1f969441-3f11-4190-91ae-572290954329.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-comfort-collar-navy-gold",
+      "cena": "detalhe do acabamento e da borda",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "7f58f976142c2bde",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 7,
+      "arquivo": "carrossel-concorrente/referencia-07.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/tidytails-comfort-collar-buckle-detail_7a9e7c9a-9422-485b-aa6e-eb3190db3656.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-comfort-collar-navy-gold",
+      "cena": "lifestyle: cão de perfil no parque",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "eb2af459cc5a9c31",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 8,
+      "arquivo": "carrossel-concorrente/referencia-08.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/tidytails-comfort-collar-padding-detail_9a74d583-aba6-46fe-8e30-23a10fc74a94.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-comfort-collar-navy-gold",
+      "cena": "escala na mão",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "b8b63a3014faf906",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    }
+  ]
+}

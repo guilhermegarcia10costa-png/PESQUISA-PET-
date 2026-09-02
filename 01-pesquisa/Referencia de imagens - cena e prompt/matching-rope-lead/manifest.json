@@ -1,0 +1,90 @@
+{
+  "produto": "matching-rope-lead",
+  "competitor_page": "https://tidytailsworld.com/products/tidytails-leash-navy-gold",
+  "competitor_store": "tidytailsworld.com",
+  "expected_carousel_count": 8,
+  "carousel_total_at_origin": 9,
+  "downloaded": 8,
+  "posicoes": [
+    {
+      "posicao": 1,
+      "arquivo": "carrossel-concorrente/referencia-01.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/TIDYTAILS_01_aedfe6d6-93ca-441a-9b87-14a72763c73e.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-leash-navy-gold",
+      "cena": "still da guia de corda enrolada em fundo neutro",
+      "funcao_comercial": "thumbnail / primeira impressão",
+      "sha256": "c4a205735550b1cf",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 2,
+      "arquivo": "carrossel-concorrente/referencia-02.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/tidytails-everyday-leash-navy-gold-02_787ec349-de30-44ed-9169-f7c686f809ee.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-leash-navy-gold",
+      "cena": "guia + peitoral combinando no cão em movimento",
+      "funcao_comercial": "demonstração de produto",
+      "sha256": "9359ef5cf4233c4f",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 3,
+      "arquivo": "carrossel-concorrente/referencia-03.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/TIDYTAILS_13_82eb13d5-2870-4c59-aeb2-17e63b5f1afa.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-leash-navy-gold",
+      "cena": "close no mosquetão de metal e na costura",
+      "funcao_comercial": "demonstração de produto",
+      "sha256": "332cbb1b556e9275",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 4,
+      "arquivo": "carrossel-concorrente/referencia-04.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/tidytails-everyday-leash-navy-gold-01_a575bd02-4cc0-42d2-b2cc-dae16a2ee361.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-leash-navy-gold",
+      "cena": "close no punho acolchoado e no traffic handle",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "bcf3642050cfd991",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 5,
+      "arquivo": "carrossel-concorrente/referencia-05.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/TIDYTAILS_05_d5e04746-3969-49dd-bf5c-9e6752b3cd43.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-leash-navy-gold",
+      "cena": "detalhe do fio refletivo entrelaçado",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "834ebacd72308224",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 6,
+      "arquivo": "carrossel-concorrente/referencia-06.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/tidytails-everyday-leash-navy-gold-03_827b80a2-b92d-4c59-92db-2997f6803cb8.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-leash-navy-gold",
+      "cena": "lifestyle: mão do dono segurando a guia no passeio",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "5d45f5f2277054fa",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 7,
+      "arquivo": "carrossel-concorrente/referencia-07.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/tidytails-everyday-leash-handle-clasp-detail_e8add113-233f-48d0-9916-ff904750bc11.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-leash-navy-gold",
+      "cena": "variantes de cor da guia",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "0a6b9e31932e8b0b",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 8,
+      "arquivo": "carrossel-concorrente/referencia-08.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/tidytails-everyday-leash-reinforced-detail_ebf90d18-c729-492b-ab7e-cf7b20d7d4c0.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-leash-navy-gold",
+      "cena": "escala: guia ao lado de um cão médio",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "77c9cbe240941f6c",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "produto": "complete-walking-set",
+  "competitor_page": "https://tidytailsworld.com/products/tidytails-premium-walking-set",
+  "competitor_store": "tidytailsworld.com",
+  "expected_carousel_count": 8,
+  "carousel_total_at_origin": 15,
+  "downloaded": 8,
+  "posicoes": [
+    {
+      "posicao": 1,
+      "arquivo": "carrossel-concorrente/referencia-01.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/TIDYTAILS_19.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-premium-walking-set",
+      "cena": "flat lay do kit completo (peitoral + guia + coleira + placa)",
+      "funcao_comercial": "thumbnail / primeira impressão",
+      "sha256": "f6670eb570434756",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 2,
+      "arquivo": "carrossel-concorrente/referencia-02.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/TIDYTAILS_12_a79a7f8d-5e4e-424a-be15-90799831f83d.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-premium-walking-set",
+      "cena": "cão usando o set completo, corpo inteiro, exterior",
+      "funcao_comercial": "demonstração de produto",
+      "sha256": "7a079fde33ce7d32",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 3,
+      "arquivo": "carrossel-concorrente/referencia-03.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/tidytails-premium-walking-set-navy-gold-01_ff72056c-2fb2-4421-9776-499c1a50e3de.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-premium-walking-set",
+      "cena": "close no acabamento combinando entre as peças",
+      "funcao_comercial": "demonstração de produto",
+      "sha256": "1fb123bf2e47fe59",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 4,
+      "arquivo": "carrossel-concorrente/referencia-04.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/TIDYTAILS_02_b6d4a18e-0f2c-4466-a92e-f5561d456c53.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-premium-walking-set",
+      "cena": "os 4 itens separados, cada um rotulado",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "88bdcd8ffe06fd36",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 5,
+      "arquivo": "carrossel-concorrente/referencia-05.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/TIDYTAILS_05_d5e04746-3969-49dd-bf5c-9e6752b3cd43.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-premium-walking-set",
+      "cena": "embalagem / cena de unboxing",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "834ebacd72308224",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 6,
+      "arquivo": "carrossel-concorrente/referencia-06.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/tidytails-premium-walking-set-harness-detail_3096c08b-5b6f-424a-80cb-5f7e07736f66.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-premium-walking-set",
+      "cena": "comparação visual: preço avulso somado vs preço do kit",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "51d255c5f6feb67b",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 7,
+      "arquivo": "carrossel-concorrente/referencia-07.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/tidytails-premium-walking-set-navy-gold-03_3c10ddfb-81bc-45ac-83b1-80c3c2b07d41.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-premium-walking-set",
+      "cena": "lifestyle: dono e cão caminhando, kit completo visível",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "d34d2ab00a03ff14",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    },
+    {
+      "posicao": 8,
+      "arquivo": "carrossel-concorrente/referencia-08.jpg",
+      "url_imagem_origem": "https://cdn.shopify.com/s/files/1/0962/5128/1737/files/TIDYTAILS_03_29057193-4397-4f0a-90e8-570b16f8b102.jpg",
+      "url_pdp_origem": "https://tidytailsworld.com/products/tidytails-premium-walking-set",
+      "cena": "detalhe da personalização repetida nas peças",
+      "funcao_comercial": "prova / contexto de uso",
+      "sha256": "0dc7d38f475e9a41",
+      "revisao_visual": "ok — produto e cena conferem com o manifesto"
+    }
+  ]
+}

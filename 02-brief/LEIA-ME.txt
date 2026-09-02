@@ -1,0 +1,18 @@
+ETAPA 02, TRAVAR O BRIEF DA SUA MARCA
+(módulo 04 do curso, aula 4.4 "Travar o brief da marca")
+
+Abra o brief-modelo.md aqui do lado. Ele já vem preenchido com a proposta de
+mercado, catálogo e ticket médio que a sua pesquisa (etapa 01) gerou, você
+não escreve o brief do zero.
+
+O que fazer:
+1. Leia cada seção do brief-modelo.md.
+2. Para cada uma, decida: aceita a proposta como está, ou pede um ajuste à IA?
+   Sempre justifique a mudança com um dado da própria pesquisa, nunca só
+   gosto pessoal.
+3. Regra da aula: siga a proposta do raio-x em ~90% das decisões agora. O
+   refinamento fino vem depois, já com a loja no ar.
+4. Em caso de dúvida, leve a decisão pro grupo/suporte antes de travar.
+5. Marque o brief como travado, isso é o seu sinal verde pra seguir.
+
+Depois de travar, vá para a etapa 03-marca/ (aula 5.1).

@@ -1,0 +1,357 @@
+{
+  "_nota": "Gerado pela Fase 6 do raio-x v5. Contrato de execução da /montar-loja. status validation_only.",
+  "marca": {
+    "nome": "Dear Bron",
+    "pais": "GB",
+    "moeda": "USD",
+    "idioma": "en",
+    "paleta": {
+      "bg": "#FFFDF8",
+      "bg2": "#F4EEE2",
+      "primary": "#7D8A5C",
+      "accent": "#C56A44",
+      "ink": "#33352C",
+      "good": "#7D8A5C",
+      "line": "#DDD3BD"
+    },
+    "fontes": {
+      "titulo": {
+        "nome": "Fraunces",
+        "handle": null
+      },
+      "corpo": {
+        "nome": "Inter",
+        "handle": "inter_n4"
+      }
+    },
+    "logo": null,
+    "announcement": "Personalised no-pull harness with their name, tracked worldwide shipping"
+  },
+  "identidade_visual": {
+    "logos": [
+      {
+        "tipo": "wordmark",
+        "descricao": "logo principal, versão escura pra fundo claro e clara pra fundo Moss",
+        "prompt": "CONTEXTO: identidade visual de e-commerce premium de acessórios para cães, wordmark tipográfico.\n\nA MARCA: Dear Bron, tom caloroso e afetuoso, paleta Moss #7D8A5C / Terracotta #C56A44 / Sand #E8DDC9. O nome lê como o começo de uma carta pro cachorro.\n\nESTILO: fonte serifada com caráter (Fraunces ou equivalente), SemiBold, tracking levemente negativo, title case 'Dear Bron'.\n\nFORMATO: fundo transparente, alta resolução, sem efeito 3D, sem texto extra, sem mascote."
+      },
+      {
+        "tipo": "icone_perfil",
+        "descricao": "ícone quadrado pra foto de perfil, lê bem a 64px",
+        "prompt": "CONTEXTO: ícone de marca, foto de perfil de rede social de uma marca de acessórios para cães.\n\nUma plaquinha oval de coleira (pet ID tag) estilizada, ou a inicial 'B' com aspecto de ponto costurado, formas simples e ousadas, lê bem em miniatura.\n\nFORMATO: 1:1, fundo sólido Moss #7D8A5C ou Terracotta #C56A44, sem texto pequeno, sem mascote ilustrado."
+      },
+      {
+        "tipo": "capa_facebook",
+        "descricao": "capa da fan page",
+        "prompt": "CONTEXTO: capa de página do Facebook, e-commerce premium de acessórios para cães.\n\nComposição calma ancorada no wordmark Dear Bron e na paleta Moss/Terracotta/Sand, com espaço negativo generoso. Pode sugerir uma cena de passeio (grama, calçada) desfocada ao fundo, sem cão em primeiro plano.\n\nFORMATO: 1640x624px (proporção 820:312), sem texto além do wordmark."
+      }
+    ]
+  },
+  "colecoes": [
+    {
+      "handle": "walking-sets",
+      "titulo": "Walking Sets",
+      "descricao_html": "<p>Harness, water bottle and grooming glove, the whole walking kit with their name on the harness.</p>"
+    },
+    {
+      "handle": "harnesses",
+      "titulo": "Harnesses",
+      "descricao_html": "<p>The no-pull harness in five sizes and four colours, personalised.</p>"
+    },
+    {
+      "handle": "add-ons",
+      "titulo": "Add-ons",
+      "descricao_html": "<p>Grooming glove and travel water bottle to round out the kit.</p>"
+    },
+    {
+      "handle": "apparel",
+      "titulo": "Apparel",
+      "descricao_html": "<p>Cold-weather coat cut to fit over the harness.</p>"
+    }
+  ],
+  "produtos": [
+    {
+      "handle": "personalised-no-pull-harness",
+      "titulo": "Personalised No-Pull Dog Harness",
+      "tipo": "Dog Harness",
+      "tags": [
+        "harness",
+        "no-pull",
+        "personalised"
+      ],
+      "colecao": "walking-sets",
+      "preco": "39.99",
+      "de": "69.99",
+      "sku": "DB-HAR-01",
+      "status": "active",
+      "descricao_html": "<p>Front and back D-rings redirect the pull instead of restraining it. Padded Y-front keeps pressure off the throat. Four adjustment points for a real fit, reinforced bar-tack stitching where cheap harnesses fail. Their name is heat-pressed and washable, and it's included, never an extra fee.</p><ul><li>Front clip that actually stops the pulling</li><li>Padded Y-front, no pressure on the throat</li><li>Four adjustment points for a true fit</li><li>Their name, heat-pressed and washable, included</li><li>30-day free size exchange</li></ul>",
+      "seo_titulo": "Personalised No-Pull Dog Harness | Dear Bron",
+      "seo_descricao": "A no-pull harness sized to your dog, finished with their name. Free personalisation, tracked worldwide shipping, 30-day fit guarantee.",
+      "pdp": {
+        "eyebrow": "The walking kit with their name on it",
+        "lede": "A no-pull harness sized to your dog, hand-finished with their name.",
+        "proof": "",
+        "season": "Spring Walks"
+      },
+      "imagens": []
+    },
+    {
+      "handle": "deshedding-glove",
+      "titulo": "Deshedding Grooming Glove",
+      "tipo": "Grooming Glove",
+      "tags": [
+        "grooming",
+        "deshedding",
+        "add-on"
+      ],
+      "colecao": "add-ons",
+      "preco": "9.99",
+      "de": "19.99",
+      "sku": "DB-GLV-01",
+      "status": "active",
+      "descricao_html": "<p>Soft silicone tips lift loose hair without pulling. Fits either hand, rinses clean, doubles as a bath-time massage mitt.</p><ul><li>Gets the undercoat before it hits your floor</li><li>No pulling, no scratching</li><li>One size, either hand</li></ul>",
+      "seo_titulo": "Deshedding Grooming Glove | Dear Bron",
+      "seo_descricao": "A silicone grooming glove that lifts loose fur in minutes. Add it to your Dear Bron order.",
+      "pdp": {
+        "eyebrow": "One swipe, less fur everywhere",
+        "lede": "Gets the loose undercoat off in a couple of minutes, on the sofa or in the garden.",
+        "proof": "",
+        "season": "Shedding season"
+      },
+      "imagens": []
+    },
+    {
+      "handle": "collapsible-water-bottle",
+      "titulo": "Collapsible Travel Water Bottle",
+      "tipo": "Pet Water Bottle",
+      "tags": [
+        "travel",
+        "water",
+        "add-on"
+      ],
+      "colecao": "add-ons",
+      "preco": "22.99",
+      "de": "34.99",
+      "sku": "DB-BTL-01",
+      "status": "active",
+      "descricao_html": "<p>Squeeze to fill the tray, release to draw the water back, no waste. Folds flat for a pocket or lead bag. BPA-free.</p><ul><li>One-handed, on the move</li><li>Folds flat, clips to the lead</li><li>Leak-proof lock</li></ul>",
+      "seo_titulo": "Collapsible Dog Travel Water Bottle | Dear Bron",
+      "seo_descricao": "A leak-proof, fold-flat dog water bottle for every walk. Matches your Dear Bron kit.",
+      "pdp": {
+        "eyebrow": "Water on every walk",
+        "lede": "Leak-proof bottle that folds flat and pours into its own bowl, one-handed.",
+        "proof": "",
+        "season": "Summer walks"
+      },
+      "imagens": []
+    },
+    {
+      "handle": "winter-dog-coat",
+      "titulo": "Winter Warm Dog Coat",
+      "tipo": "Dog Coat",
+      "tags": [
+        "coat",
+        "winter",
+        "apparel"
+      ],
+      "colecao": "apparel",
+      "preco": "27.99",
+      "de": "44.99",
+      "sku": "DB-COAT-01",
+      "status": "active",
+      "descricao_html": "<p>Step-in cut with a harness opening on the back, so the lead still clips straight to the front ring. Fleece lining, wind-resistant outer, reflective trim for dark mornings.</p><ul><li>Harness hole, no re-clipping</li><li>Fleece lined, wind-resistant</li><li>Reflective trim</li></ul>",
+      "seo_titulo": "Winter Warm Dog Coat | Dear Bron",
+      "seo_descricao": "A fleece-lined, water-resistant dog coat with a harness opening. Built for cold-weather walks.",
+      "pdp": {
+        "eyebrow": "For the cold-weather walks",
+        "lede": "Fleece-lined, water-resistant shell that clips over the harness without a fight.",
+        "proof": "",
+        "season": "Autumn / Winter"
+      },
+      "imagens": []
+    }
+  ],
+  "addons": [
+    {
+      "handle": "deshedding-glove",
+      "titulo": "Deshedding Grooming Glove",
+      "preco": "9.99",
+      "de": "19.99",
+      "sku": "DB-BUMP-01"
+    },
+    {
+      "handle": "collapsible-water-bottle",
+      "titulo": "Collapsible Travel Water Bottle",
+      "preco": "22.99",
+      "de": "34.99",
+      "sku": "DB-LEAD-01"
+    },
+    {
+      "handle": "winter-dog-coat",
+      "titulo": "Winter Warm Dog Coat",
+      "preco": "27.99",
+      "de": "44.99",
+      "sku": "DB-COL-01"
+    }
+  ],
+  "bump_pdp": {
+    "handle": "deshedding-glove"
+  },
+  "paginas": [
+    {
+      "handle": "contact",
+      "titulo": "Contact",
+      "corpo_html": "<p>Email hello@dearbron.com, we reply within one working day.</p>"
+    },
+    {
+      "handle": "shipping-policy",
+      "titulo": "Shipping Policy",
+      "corpo_html": "<p>We ship worldwide, tracked. Standard delivery 6 to 10 working days. Personalised items add 2 to 4 working days. Free delivery over $40, otherwise $4.95.</p>"
+    },
+    {
+      "handle": "refund-policy",
+      "titulo": "Refund Policy",
+      "corpo_html": "<p>30-day fit guarantee: wrong size, free swap. Unused non-personalised items refundable within 30 days. Personalised items only replaced if faulty.</p>"
+    },
+    {
+      "handle": "privacy-policy",
+      "titulo": "Privacy Policy",
+      "corpo_html": "<p>Dear Bron collects only the data needed to fulfil your order and, with consent, to send marketing. GDPR/PECR compliant for UK/EU visitors. Full policy on request at hello@dearbron.com.</p>"
+    },
+    {
+      "handle": "terms-of-service",
+      "titulo": "Terms of Service",
+      "corpo_html": "<p>Standard e-commerce terms of service for Dear Bron, a global store operating in USD. Orders subject to acceptance and availability. Prices shown in local currency via Shopify Markets; settlement in USD.</p>"
+    }
+  ],
+  "menu": [
+    {
+      "tipo": "frontpage",
+      "titulo": "Home"
+    },
+    {
+      "tipo": "collection",
+      "titulo": "Walking Sets",
+      "handle": "walking-sets"
+    },
+    {
+      "tipo": "collection",
+      "titulo": "Harnesses",
+      "handle": "harnesses"
+    },
+    {
+      "tipo": "collection",
+      "titulo": "Add-ons",
+      "handle": "add-ons"
+    },
+    {
+      "tipo": "collection",
+      "titulo": "Apparel",
+      "handle": "apparel"
+    }
+  ],
+  "tema": {
+    "settings": {}
+  },
+  "imagens_pdp": {
+    "fonte": "auditoria_carrossel_concorrentes",
+    "concorrentes_auditados": [
+      {
+        "produto_handle": "personalised-no-pull-harness",
+        "concorrente": "DoggyKings",
+        "dominio": "doggykings.com",
+        "produto_concorrente_handle": "personalised-no-pull-harness",
+        "url_pdp": "https://doggykings.com/products/personalised-no-pull-harness",
+        "n_imagens": 8,
+        "observacao": "still + lifestyle + macro do nome + guia de tamanho (herdado da auditoria V4)"
+      },
+      {
+        "loja": "RuffRover",
+        "dominio": "ruffrover.com",
+        "n_imagens": 10,
+        "observacao": "muito lifestyle emocional, pouca macro de produto",
+        "produto_handle": null
+      },
+      {
+        "loja": "Luther Bennett",
+        "dominio": "lutherbennett.com",
+        "n_imagens": 7,
+        "observacao": "editorial, fotografia própria consistente",
+        "produto_handle": null
+      }
+    ],
+    "faixa_nicho": {
+      "min": 5,
+      "max": 14
+    },
+    "achado": "nenhum concorrente do sub-nicho usa imagem de 'antes/depois do puxão' como still de PDP; a Dear Bron pode ocupar essa posição.",
+    "sequencia": [
+      {
+        "posicao": 0,
+        "tipo": "banner_home",
+        "status": "nova",
+        "formato": "banner_desktop",
+        "descricao": "hero da home, horizontal",
+        "referencia_cena_arquivo": null,
+        "prompt": "CONTEXTO: fotografia comercial de e-commerce, banner de home premium de acessórios para cães.\n\nREFERÊNCIA A ANEXAR: a foto real do peitoral (Product Master, a produzir com a amostra) + uma foto de cena de passeio.\n\nA PERSONA: dono de cão de 30 a 50 anos, casual, num passeio de fim de tarde, sem rosto em primeiro plano.\n\nA CENA: cão de médio porte usando o peitoral Dear Bron na cor Moss, meio-passo, coleira frouxa, calçada molhada ou grama, luz dourada de fim de tarde, foco no cão.\n\nMUNDO DA MARCA: paleta Moss #7D8A5C, Terracotta #C56A44, Sand #E8DDC9 expressa como ambiente real (folhagem, terra, luz quente), nunca gráfico pintado.\n\nZONA DE TEXTO: reservar o terço esquerdo pro headline e o CTA, sem elemento competindo ali.\n\nFOTORREALISMO + FORMATO: qualidade de catálogo comercial, sem aparência de IA, sem pele plástica, sem texto. Landscape 16:9, 1920x1080px.",
+        "produto_handle": "personalised-no-pull-harness"
+      },
+      {
+        "posicao": 0,
+        "tipo": "banner_home",
+        "status": "nova",
+        "formato": "banner_mobile",
+        "descricao": "mesmo hero recomposto na vertical, não o desktop cortado",
+        "referencia_cena_arquivo": null,
+        "prompt": "CONTEXTO: fotografia comercial de e-commerce, banner de home mobile premium de acessórios para cães.\n\nREFERÊNCIA A ANEXAR: a foto real do peitoral (Product Master, a produzir) + foto de cena de passeio.\n\nA PERSONA: a mesma do banner desktop, dono de cão casual num passeio.\n\nA CENA: enquadramento vertical do cão de médio porte usando o peitoral Dear Bron Moss, corpo inteiro, coleira frouxa, exterior com grama e luz quente.\n\nMUNDO DA MARCA: paleta Moss/Terracotta/Sand como ambiente real, luz dourada.\n\nZONA DE TEXTO: reservar a metade inferior pro headline e o CTA.\n\nFOTORREALISMO + FORMATO: catálogo comercial, sem aparência de IA, sem texto. Portrait 4:5, 1080x1350px.",
+        "produto_handle": "personalised-no-pull-harness"
+      },
+      {
+        "posicao": 1,
+        "tipo": "still_produto",
+        "status": "nova",
+        "descricao": "still do peitoral em fundo neutro, 3/4",
+        "referencia_cena_arquivo": "Referencia de imagens - cena e prompt/personalised-no-pull-harness/carrossel-concorrente/referencia-01.png",
+        "prompt": "REFERENCE HIERARCHY: (1) The competitor carousel image referencia-01 controls SCENE, framing, camera angle, subject placement and composition ONLY. (2) The Dear Bron Product Master (attach: the new product's master render or supplier sample photo, to be produced) controls every physical attribute of the product: exact silhouette, webbing texture, hardware finish, proportions, stitching pattern and the brand colour (Moss #7D8A5C, Sand #E8DDC9, Terracotta #C56A44 or Charcoal #33352C as specified per shot).\nART DIRECTION: three-quarter product still on a seamless Sand #E8DDC9 background, soft directional light from upper left, gentle contact shadow, no props, catalogue-clean.\nPRODUCT FIDELITY: reproduce the Dear Bron product exactly from the Product Master. Do NOT reproduce the competitor's brand name, logo, woven label, tag artwork, colourway or any printed claim. The environment and the light come from the reference; the product does not.\nBRAND AND LEGAL CLEANUP: remove any competitor branding, watermark, price sticker or text.\nQUALITY CONTROL: photorealistic, no AI artefacts, no plastic sheen, correct hardware count, Square 1:1, 2048x2048px.",
+        "produto_handle": "personalised-no-pull-harness"
+      },
+      {
+        "posicao": 1,
+        "tipo": "still_produto",
+        "status": "nova",
+        "produto_handle": "deshedding-glove",
+        "descricao": "still de produto de deshedding-glove",
+        "referencia_cena_arquivo": null,
+        "prompt": "REFERENCE HIERARCHY: the competitor carousel controls scene and framing only. ART DIRECTION: three-quarter product still on Sand #E8DDC9, soft directional light, gentle contact shadow, catalogue-clean. PRODUCT FIDELITY: reproduce the Dear Bron product exactly from the Product Master (to be produced from the supplier sample); correct materials, hardware finish and brand colour. BRAND AND LEGAL CLEANUP: remove any competitor branding, watermark or price sticker. QUALITY CONTROL: photorealistic, no AI artefacts, no plastic sheen, Square 1:1, 2048x2048px."
+      },
+      {
+        "posicao": 1,
+        "tipo": "still_produto",
+        "status": "nova",
+        "produto_handle": "collapsible-water-bottle",
+        "descricao": "still de produto de collapsible-water-bottle",
+        "referencia_cena_arquivo": null,
+        "prompt": "REFERENCE HIERARCHY: the competitor carousel controls scene and framing only. ART DIRECTION: three-quarter product still on Sand #E8DDC9, soft directional light, gentle contact shadow, catalogue-clean. PRODUCT FIDELITY: reproduce the Dear Bron product exactly from the Product Master (to be produced from the supplier sample); correct materials, hardware finish and brand colour. BRAND AND LEGAL CLEANUP: remove any competitor branding, watermark or price sticker. QUALITY CONTROL: photorealistic, no AI artefacts, no plastic sheen, Square 1:1, 2048x2048px."
+      },
+      {
+        "posicao": 1,
+        "tipo": "still_produto",
+        "status": "nova",
+        "produto_handle": "winter-dog-coat",
+        "descricao": "still de produto de winter-dog-coat",
+        "referencia_cena_arquivo": null,
+        "prompt": "REFERENCE HIERARCHY: the competitor carousel controls scene and framing only. ART DIRECTION: three-quarter product still on Sand #E8DDC9, soft directional light, gentle contact shadow, catalogue-clean. PRODUCT FIDELITY: reproduce the Dear Bron product exactly from the Product Master (to be produced from the supplier sample); correct materials, hardware finish and brand colour. BRAND AND LEGAL CLEANUP: remove any competitor branding, watermark or price sticker. QUALITY CONTROL: photorealistic, no AI artefacts, no plastic sheen, Square 1:1, 2048x2048px."
+      }
+    ],
+    "conferencia_produto": []
+  },
+  "_status": "validation_only",
+  "_decisions_required": [
+    "Buscar 'Dear Bron' no UK IPO + USPTO (classes 18 e 35) e registrar dearbron.com + .co.uk",
+    "Reservar @dearbron no Instagram, TikTok e Facebook",
+    "Pedir amostra do fornecedor (bordado do nome + envio global)",
+    "Decidir pagamento: Shopify Payments ou Stripe Card Payments",
+    "Resetar a loja Serena: nome, domínio, tema, manter USD, ativar Shopify Markets",
+    "Pixel + CAPI + banner de consentimento",
+    "5 criativos en-GB (3 vídeo UGC + 2 imagem) e ligar Meta $25 a $40/dia no UK"
+  ]
+}
